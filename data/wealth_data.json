@@ -1,0 +1,1317 @@
+{
+  "global_wealth_percentiles": {
+    "top_0.1": { "min_nw": 43200000, "label": "Top 0.1% - Ultra High Net Worth" },
+    "top_0.5": { "min_nw": 13700000, "label": "Top 0.5% - Very High Net Worth" },
+    "top_1": { "min_nw": 5100000, "label": "Top 1% - High Net Worth" },
+    "top_2": { "min_nw": 2900000, "label": "Top 2% - Affluent" },
+    "top_5": { "min_nw": 1200000, "label": "Top 5% - Upper Middle Class" },
+    "top_10": { "min_nw": 650000, "label": "Top 10% - Well-Off" },
+    "top_20": { "min_nw": 230000, "label": "Top 20% - Comfortable" },
+    "top_50": { "min_nw": 35000, "label": "Top 50% - Above Average" },
+    "bottom_50": { "min_nw": 0, "label": "Bottom 50% - Building Wealth" }
+  },
+  "country_multipliers": {
+    "USA": 1.0,
+    "UK": 0.95,
+    "Canada": 0.92,
+    "Australia": 0.90,
+    "Germany": 0.88,
+    "France": 0.85,
+    "Japan": 0.82,
+    "South Korea": 0.75,
+    "Singapore": 0.95,
+    "India": 0.35,
+    "China": 0.45,
+    "Brazil": 0.40,
+    "South Africa": 0.30,
+    "Egypt": 0.25,
+    "Saudi Arabia": 0.70,
+    "Israel": 0.75,
+    "Switzerland": 1.15,
+    "Netherlands": 0.90,
+    "Sweden": 0.88,
+    "Norway": 0.95
+  },
+  "career_base_estimates": {
+    "Software Engineer": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 850000,
+      "peak_salary": 180000
+    },
+    "AI Scientist": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1500000,
+      "peak_salary": 350000
+    },
+    "Data Scientist": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Product Manager": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1200000,
+      "peak_salary": 280000
+    },
+    "Investment Banker": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 500000
+    },
+    "Management Consultant": {
+      "lifetime_nw": 7500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Doctor": {
+      "lifetime_nw": 5500000,
+      "10_year_nw": 800000,
+      "peak_salary": 350000
+    },
+    "Lawyer": {
+      "lifetime_nw": 4800000,
+      "10_year_nw": 1100000,
+      "peak_salary": 250000
+    },
+    "Entrepreneur": {
+      "lifetime_nw": 25000000,
+      "10_year_nw": 3500000,
+      "peak_salary": 1000000
+    },
+    "CEO": {
+      "lifetime_nw": 45000000,
+      "10_year_nw": 8500000,
+      "peak_salary": 2000000
+    },
+    "Movie Star": {
+      "lifetime_nw": 85000000,
+      "10_year_nw": 15000000,
+      "peak_salary": 20000000
+    },
+    "Professional Athlete": {
+      "lifetime_nw": 65000000,
+      "10_year_nw": 25000000,
+      "peak_salary": 15000000
+    },
+    "Research Scientist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Teacher": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 450000,
+      "peak_salary": 85000
+    },
+    "Artist": {
+      "lifetime_nw": 15000000,
+      "10_year_nw": 2500000,
+      "peak_salary": 500000
+    },
+    "Musician": {
+      "lifetime_nw": 18000000,
+      "10_year_nw": 3200000,
+      "peak_salary": 800000
+    },
+    "Writer": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1200000,
+      "peak_salary": 300000
+    },
+    "Machine Learning Engineer": {
+      "lifetime_nw": 4500000,
+      "10_year_nw": 1100000,
+      "peak_salary": 220000
+    },
+    "DevOps Engineer": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 900000,
+      "peak_salary": 190000
+    },
+    "Full Stack Developer": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Mobile App Developer": {
+      "lifetime_nw": 3000000,
+      "10_year_nw": 700000,
+      "peak_salary": 150000
+    },
+    "Game Developer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Cybersecurity Specialist": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 980000,
+      "peak_salary": 200000
+    },
+    "Cloud Architect": {
+      "lifetime_nw": 4800000,
+      "10_year_nw": 1150000,
+      "peak_salary": 230000
+    },
+    "Technical Architect": {
+      "lifetime_nw": 5200000,
+      "10_year_nw": 1250000,
+      "peak_salary": 250000
+    },
+    "Engineering Manager": {
+      "lifetime_nw": 6800000,
+      "10_year_nw": 1400000,
+      "peak_salary": 300000
+    },
+    "CTO": {
+      "lifetime_nw": 25000000,
+      "10_year_nw": 5500000,
+      "peak_salary": 1200000
+    },
+    "Venture Capitalist": {
+      "lifetime_nw": 35000000,
+      "10_year_nw": 8500000,
+      "peak_salary": 2500000
+    },
+    "Private Equity": {
+      "lifetime_nw": 28000000,
+      "10_year_nw": 6500000,
+      "peak_salary": 1800000
+    },
+    "Hedge Fund Manager": {
+      "lifetime_nw": 45000000,
+      "10_year_nw": 12000000,
+      "peak_salary": 5000000
+    },
+    "Commercial Banker": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Financial Advisor": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Insurance Agent": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Real Estate Agent": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Accountant": {
+      "lifetime_nw": 2600000,
+      "10_year_nw": 600000,
+      "peak_salary": 130000
+    },
+    "Tax Consultant": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Auditor": {
+      "lifetime_nw": 2700000,
+      "10_year_nw": 620000,
+      "peak_salary": 135000
+    },
+    "CFO": {
+      "lifetime_nw": 18000000,
+      "10_year_nw": 4200000,
+      "peak_salary": 800000
+    },
+    "Marketing Manager": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Digital Marketing Specialist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Brand Manager": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 880000,
+      "peak_salary": 185000
+    },
+    "Sales Manager": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Business Development": {
+      "lifetime_nw": 3600000,
+      "10_year_nw": 820000,
+      "peak_salary": 175000
+    },
+    "CMO": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 600000
+    },
+    "HR Manager": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Talent Acquisition": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Operations Manager": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Supply Chain Manager": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Project Manager": {
+      "lifetime_nw": 3000000,
+      "10_year_nw": 700000,
+      "peak_salary": 150000
+    },
+    "Business Analyst": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Surgeon": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1500000,
+      "peak_salary": 450000
+    },
+    "Cardiologist": {
+      "lifetime_nw": 9200000,
+      "10_year_nw": 1650000,
+      "peak_salary": 500000
+    },
+    "Radiologist": {
+      "lifetime_nw": 7800000,
+      "10_year_nw": 1400000,
+      "peak_salary": 400000
+    },
+    "Anesthesiologist": {
+      "lifetime_nw": 8200000,
+      "10_year_nw": 1450000,
+      "peak_salary": 420000
+    },
+    "Emergency Medicine": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1150000,
+      "peak_salary": 320000
+    },
+    "Pediatrician": {
+      "lifetime_nw": 5200000,
+      "10_year_nw": 950000,
+      "peak_salary": 280000
+    },
+    "Dentist": {
+      "lifetime_nw": 4800000,
+      "10_year_nw": 880000,
+      "peak_salary": 250000
+    },
+    "Pharmacist": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 850000,
+      "peak_salary": 180000
+    },
+    "Nurse Practitioner": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 720000,
+      "peak_salary": 155000
+    },
+    "Physical Therapist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Psychologist": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Psychiatrist": {
+      "lifetime_nw": 6800000,
+      "10_year_nw": 1200000,
+      "peak_salary": 350000
+    },
+    "Corporate Lawyer": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 350000
+    },
+    "Trial Lawyer": {
+      "lifetime_nw": 5800000,
+      "10_year_nw": 1250000,
+      "peak_salary": 300000
+    },
+    "Patent Attorney": {
+      "lifetime_nw": 5200000,
+      "10_year_nw": 1100000,
+      "peak_salary": 260000
+    },
+    "Public Defender": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 500000,
+      "peak_salary": 110000
+    },
+    "Judge": {
+      "lifetime_nw": 4500000,
+      "10_year_nw": 950000,
+      "peak_salary": 220000
+    },
+    "Architect": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Civil Engineer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Mechanical Engineer": {
+      "lifetime_nw": 3000000,
+      "10_year_nw": 700000,
+      "peak_salary": 150000
+    },
+    "Electrical Engineer": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Chemical Engineer": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Aerospace Engineer": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 880000,
+      "peak_salary": 185000
+    },
+    "Biomedical Engineer": {
+      "lifetime_nw": 3600000,
+      "10_year_nw": 820000,
+      "peak_salary": 175000
+    },
+    "Environmental Engineer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Petroleum Engineer": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Construction Manager": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Professor": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "School Principal": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Education Administrator": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Curriculum Developer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Academic Researcher": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Librarian": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Film Director": {
+      "lifetime_nw": 25000000,
+      "10_year_nw": 5500000,
+      "peak_salary": 1500000
+    },
+    "Producer": {
+      "lifetime_nw": 18000000,
+      "10_year_nw": 4200000,
+      "peak_salary": 1000000
+    },
+    "Screenwriter": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Actor": {
+      "lifetime_nw": 35000000,
+      "10_year_nw": 8500000,
+      "peak_salary": 2500000
+    },
+    "Cinematographer": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Video Editor": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Sound Engineer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Graphic Designer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "UX Designer": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Art Director": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Photographer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Fashion Designer": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Interior Designer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Singer": {
+      "lifetime_nw": 28000000,
+      "10_year_nw": 6500000,
+      "peak_salary": 1800000
+    },
+    "Music Producer": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 650000
+    },
+    "Composer": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Sound Designer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Music Therapist": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "DJ": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Novelist": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 650000
+    },
+    "Journalist": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Content Creator": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "YouTuber": {
+      "lifetime_nw": 15000000,
+      "10_year_nw": 3500000,
+      "peak_salary": 850000
+    },
+    "Podcaster": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Blogger": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Copywriter": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Technical Writer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Editor": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Publisher": {
+      "lifetime_nw": 4500000,
+      "10_year_nw": 1000000,
+      "peak_salary": 230000
+    },
+    "Football Player": {
+      "lifetime_nw": 85000000,
+      "10_year_nw": 35000000,
+      "peak_salary": 25000000
+    },
+    "Basketball Player": {
+      "lifetime_nw": 95000000,
+      "10_year_nw": 40000000,
+      "peak_salary": 30000000
+    },
+    "Tennis Player": {
+      "lifetime_nw": 75000000,
+      "10_year_nw": 28000000,
+      "peak_salary": 20000000
+    },
+    "Golf Player": {
+      "lifetime_nw": 65000000,
+      "10_year_nw": 25000000,
+      "peak_salary": 15000000
+    },
+    "Olympic Athlete": {
+      "lifetime_nw": 25000000,
+      "10_year_nw": 8500000,
+      "peak_salary": 5000000
+    },
+    "Personal Trainer": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Sports Coach": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Sports Agent": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Athletic Director": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Sports Commentator": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Chef": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Restaurant Owner": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Food Critic": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Nutritionist": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Food Scientist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Sommelier": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Travel Blogger": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Travel Agent": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Tour Guide": {
+      "lifetime_nw": 1600000,
+      "10_year_nw": 380000,
+      "peak_salary": 80000
+    },
+    "Hotel Manager": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Event Planner": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Wedding Planner": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Pilot": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Air Traffic Controller": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Flight Attendant": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Ship Captain": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Truck Driver": {
+      "lifetime_nw": 1600000,
+      "10_year_nw": 380000,
+      "peak_salary": 80000
+    },
+    "Uber Driver": {
+      "lifetime_nw": 1200000,
+      "10_year_nw": 280000,
+      "peak_salary": 60000
+    },
+    "Taxi Driver": {
+      "lifetime_nw": 1200000,
+      "10_year_nw": 280000,
+      "peak_salary": 60000
+    },
+    "Train Conductor": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Bus Driver": {
+      "lifetime_nw": 1600000,
+      "10_year_nw": 380000,
+      "peak_salary": 80000
+    },
+    "Farmer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Veterinarian": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 850000,
+      "peak_salary": 180000
+    },
+    "Animal Trainer": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Marine Biologist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Zoologist": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Wildlife Photographer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Environmental Scientist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Geologist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Meteorologist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Astronomer": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Physicist": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Chemist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Biologist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Mathematician": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Statistician": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Actuary": {
+      "lifetime_nw": 3800000,
+      "10_year_nw": 850000,
+      "peak_salary": 180000
+    },
+    "Police Officer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Detective": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "FBI Agent": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "CIA Agent": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Security Guard": {
+      "lifetime_nw": 1400000,
+      "10_year_nw": 320000,
+      "peak_salary": 70000
+    },
+    "Firefighter": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Paramedic": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Social Worker": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Therapist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Counselor": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Life Coach": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Career Counselor": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Motivational Speaker": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Public Speaker": {
+      "lifetime_nw": 4200000,
+      "10_year_nw": 950000,
+      "peak_salary": 200000
+    },
+    "Conference Organizer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Public Relations": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Communications Manager": {
+      "lifetime_nw": 3000000,
+      "10_year_nw": 700000,
+      "peak_salary": 150000
+    },
+    "Social Media Manager": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Community Manager": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Brand Ambassador": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Influencer": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Model": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Fashion Model": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 650000
+    },
+    "Makeup Artist": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Hair Stylist": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Esthetician": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Massage Therapist": {
+      "lifetime_nw": 1600000,
+      "10_year_nw": 380000,
+      "peak_salary": 80000
+    },
+    "Personal Shopper": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Real Estate Developer": {
+      "lifetime_nw": 15000000,
+      "10_year_nw": 3500000,
+      "peak_salary": 850000
+    },
+    "Property Manager": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Appraiser": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Mortgage Broker": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Construction Worker": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Electrician": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Plumber": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Carpenter": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Mason": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Painter": {
+      "lifetime_nw": 1600000,
+      "10_year_nw": 380000,
+      "peak_salary": 80000
+    },
+    "Roofer": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "HVAC Technician": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Auto Mechanic": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Machinist": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Welder": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Quality Control Inspector": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Factory Worker": {
+      "lifetime_nw": 1400000,
+      "10_year_nw": 320000,
+      "peak_salary": 70000
+    },
+    "Assembly Line Worker": {
+      "lifetime_nw": 1400000,
+      "10_year_nw": 320000,
+      "peak_salary": 70000
+    },
+    "Warehouse Manager": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Logistics Coordinator": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Shipping Clerk": {
+      "lifetime_nw": 1400000,
+      "10_year_nw": 320000,
+      "peak_salary": 70000
+    },
+    "Inventory Manager": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Purchasing Agent": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Customer Service Representative": {
+      "lifetime_nw": 1400000,
+      "10_year_nw": 320000,
+      "peak_salary": 70000
+    },
+    "Call Center Agent": {
+      "lifetime_nw": 1200000,
+      "10_year_nw": 280000,
+      "peak_salary": 60000
+    },
+    "Technical Support": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "Help Desk Analyst": {
+      "lifetime_nw": 1800000,
+      "10_year_nw": 420000,
+      "peak_salary": 90000
+    },
+    "IT Support Specialist": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Network Administrator": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Database Administrator": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "System Administrator": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Web Developer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Frontend Developer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Backend Developer": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Quality Assurance Engineer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Software Tester": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "UI Designer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Motion Graphics Designer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "3D Artist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Animation Artist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "VFX Artist": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Game Artist": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Game Designer": {
+      "lifetime_nw": 3000000,
+      "10_year_nw": 700000,
+      "peak_salary": 150000
+    },
+    "Level Designer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Game Producer": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Esports Player": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Gaming Streamer": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Game Commentator": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "IAS Officer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "IPS Officer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "IFS Officer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Bank PO": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Government Teacher": {
+      "lifetime_nw": 2000000,
+      "10_year_nw": 470000,
+      "peak_salary": 100000
+    },
+    "Railway Engineer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "DRDO Scientist": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "ISRO Scientist": {
+      "lifetime_nw": 3200000,
+      "10_year_nw": 750000,
+      "peak_salary": 160000
+    },
+    "Chartered Accountant": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Company Secretary": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Cost Accountant": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Fashion Photographer": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Wedding Photographer": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    },
+    "Commercial Photographer": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Food Photographer": {
+      "lifetime_nw": 2200000,
+      "10_year_nw": 520000,
+      "peak_salary": 110000
+    },
+    "Stock Trader": {
+      "lifetime_nw": 8500000,
+      "10_year_nw": 1800000,
+      "peak_salary": 450000
+    },
+    "Forex Trader": {
+      "lifetime_nw": 6500000,
+      "10_year_nw": 1400000,
+      "peak_salary": 320000
+    },
+    "Cryptocurrency Trader": {
+      "lifetime_nw": 12000000,
+      "10_year_nw": 2800000,
+      "peak_salary": 650000
+    },
+    "Investment Analyst": {
+      "lifetime_nw": 3500000,
+      "10_year_nw": 800000,
+      "peak_salary": 170000
+    },
+    "Financial Planner": {
+      "lifetime_nw": 2800000,
+      "10_year_nw": 650000,
+      "peak_salary": 140000
+    },
+    "Credit Analyst": {
+      "lifetime_nw": 2500000,
+      "10_year_nw": 580000,
+      "peak_salary": 125000
+    }
+  }
+}

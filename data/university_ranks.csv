@@ -1,0 +1,2066 @@
+university_name,country,qs_rank,nirf_rank,tier
+MIT,USA,1,,S+
+Stanford University,USA,3,,S+
+Harvard University,USA,5,,S+
+California Institute of Technology,USA,6,,S+
+University of Oxford,UK,4,,S+
+University of Cambridge,UK,2,,S+
+ETH Zurich,Switzerland,7,,S+
+University College London,UK,8,,S+
+Imperial College London,UK,9,,S+
+University of Chicago,USA,10,,S+
+National University of Singapore,Singapore,11,,S+
+Peking University,China,12,,S+
+University of Pennsylvania,USA,13,,S+
+Tsinghua University,China,14,,S+
+University of Edinburgh,UK,15,,S+
+Yale University,USA,16,,S+
+King's College London,UK,17,,S+
+University of Tokyo,Japan,18,,S+
+Princeton University,USA,19,,S+
+University of Sydney,Australia,20,,S+
+University of Toronto,Canada,21,,S+
+University of Melbourne,Australia,22,,S+
+École Normale Supérieure,France,23,,S+
+University of Michigan,USA,24,,S+
+University of Hong Kong,Hong Kong,25,,S+
+Northwestern University,USA,26,,S+
+Australian National University,Australia,27,,S+
+London School of Economics,UK,28,,S+
+Seoul National University,South Korea,29,,S+
+University of Bristol,UK,30,,S+
+Technical University of Munich,Germany,31,,S+
+New York University,USA,32,,S+
+Kyoto University,Japan,33,,S+
+University of British Columbia,Canada,34,,S+
+University of Queensland,Australia,35,,S+
+Shanghai Jiao Tong University,China,36,,S+
+City University of Hong Kong,Hong Kong,37,,S+
+London School of Economics,UK,38,,S+
+University of New South Wales,Australia,39,,S+
+University of Warwick,UK,40,,S+
+Brown University,USA,41,,S+
+KAIST,South Korea,42,,S+
+University of Amsterdam,Netherlands,43,,S+
+Sorbonne University,France,44,,S+
+University of Glasgow,UK,45,,S+
+Carnegie Mellon University,USA,46,,S+
+University of Birmingham,UK,47,,S+
+University of Sheffield,UK,48,,S+
+University of St Andrews,UK,49,,S+
+Durham University,UK,50,,S+
+IIT Bombay,India,,1,S
+IIT Delhi,India,,2,S
+IIT Madras,India,,3,S
+IIT Kanpur,India,,4,S
+IIT Kharagpur,India,,5,S
+IIT Roorkee,India,,6,S
+IIT Guwahati,India,,7,S
+IIT Hyderabad,India,,8,A+
+IIT Indore,India,,9,A+
+IIT Ropar,India,,10,A+
+IISC Bangalore,India,,11,S
+NIT Trichy,India,,12,A+
+NIT Warangal,India,,13,A+
+NIT Surathkal,India,,14,A+
+BITS Pilani,India,,15,A+
+Delhi University,India,,16,A
+Jawaharlal Nehru University,India,,17,A
+University of Hyderabad,India,,18,A
+Jadavpur University,India,,19,A
+Banaras Hindu University,India,,20,A
+Anna University,India,,21,A
+Jamia Millia Islamia,India,,22,A
+Aligarh Muslim University,India,,23,A
+University of Calcutta,India,,24,A
+Pune University,India,,25,A
+Mumbai University,India,,26,B+
+Bangalore University,India,,27,B+
+Osmania University,India,,28,B+
+University of Madras,India,,29,B+
+Andhra University,India,,30,B+
+University of Kerala,India,,31,B+
+Guru Nanak Dev University,India,,32,B+
+University of Rajasthan,India,,33,B+
+Manipal Academy,India,,34,B+
+SRM University,India,,35,B+
+VIT University,India,,36,B+
+Amity University,India,,37,B
+Lovely Professional University,India,,38,B
+Symbiosis International University,India,,39,B
+Christ University,India,,40,B
+University of Tokyo,Japan,23,,S+
+Kyoto University,Japan,33,,S+
+Tokyo Institute of Technology,Japan,56,,S
+Seoul National University,South Korea,29,,S+
+KAIST,South Korea,41,,S+
+University of Sydney,Australia,19,,S+
+University of Melbourne,Australia,14,,S+
+Australian National University,Australia,27,,S+
+University of Queensland,Australia,43,,S+
+University of Illinois Urbana-Champaign,USA,51,,S
+University of California Berkeley,USA,10,,S+
+Columbia University,USA,23,,S+
+Georgia Institute of Technology,USA,88,,S
+University of California Los Angeles,USA,44,,S+
+University of California San Diego,USA,34,,S+
+University of Southern California,USA,134,,A+
+Rice University,USA,96,,A+
+Dartmouth College,USA,51,,S+
+Vanderbilt University,USA,199,,A+
+Georgetown University,USA,226,,A+
+Emory University,USA,160,,A+
+Tufts University,USA,275,,A
+University of Rochester,USA,174,,A+
+Boston University,USA,93,,A+
+Case Western Reserve University,USA,176,,A+
+University of Pittsburgh,USA,164,,A+
+Ohio State University,USA,140,,A+
+Pennsylvania State University,USA,93,,A+
+University of Florida,USA,173,,A+
+University of Arizona,USA,262,,A
+University of Colorado Boulder,USA,231,,A+
+University of Utah,USA,270,,A
+Arizona State University,USA,219,,A+
+University of Washington,USA,68,,S
+Virginia Tech,USA,362,,A
+North Carolina State University,USA,263,,A
+University of Minnesota,USA,117,,A+
+University of Wisconsin Madison,USA,75,,S
+University of Maryland College Park,USA,129,,A+
+Purdue University,USA,129,,A+
+Texas A&M University,USA,168,,A+
+University of Texas Austin,USA,58,,S
+Duke University,USA,50,,S+
+University of North Carolina,USA,100,,A+
+Cornell University,USA,20,,S+
+Johns Hopkins University,USA,24,,S+
+Rutgers University,USA,262,,A
+University of California Irvine,USA,268,,A
+University of California Davis,USA,118,,A+
+University of California Santa Barbara,USA,155,,A+
+University of California San Francisco,USA,15,,S+
+University of Toronto,Canada,21,,S+
+University of British Columbia,Canada,34,,S+
+McGill University,Canada,30,,S+
+McMaster University,Canada,152,,A+
+University of Alberta,Canada,110,,A+
+University of Montreal,Canada,141,,A+
+University of Waterloo,Canada,112,,A+
+Queen's University,Canada,209,,A+
+University of Calgary,Canada,242,,A+
+University of Ottawa,Canada,279,,A
+Simon Fraser University,Canada,298,,A
+Carleton University,Canada,601,,B+
+Concordia University,Canada,521,,B
+Dalhousie University,Canada,308,,A
+Laval University,Canada,420,,B+
+Memorial University,Canada,701,,B
+University of Manitoba,Canada,601,,B+
+University of New Brunswick,Canada,701,,B
+University of Regina,Canada,801,,B
+University of Saskatchewan,Canada,461,,B+
+University of Victoria,Canada,359,,A
+York University,Canada,456,,B+
+Technical University of Munich,Germany,37,,S+
+LMU Munich,Germany,59,,S
+Heidelberg University,Germany,65,,S
+Humboldt University of Berlin,Germany,120,,A+
+Free University of Berlin,Germany,106,,A+
+RWTH Aachen University,Germany,147,,A+
+Technical University of Berlin,Germany,148,,A+
+University of Bonn,Germany,90,,A+
+University of Frankfurt,Germany,355,,A
+University of Göttingen,Germany,152,,A+
+University of Hamburg,Germany,228,,A+
+University of Cologne,Germany,320,,A
+University of Mannheim,Germany,427,,B+
+University of Stuttgart,Germany,347,,A
+Karlsruhe Institute of Technology,Germany,119,,A+
+University of Freiburg,Germany,192,,A+
+University of Würzburg,Germany,337,,A
+University of Münster,Germany,801,,B
+University of Tübingen,Germany,213,,A+
+ETH Zurich,Switzerland,7,,S+
+University of Zurich,Switzerland,70,,S
+EPFL,Switzerland,36,,S+
+University of Geneva,Switzerland,125,,A+
+University of Bern,Switzerland,139,,A+
+University of Basel,Switzerland,138,,A+
+University of St. Gallen,Switzerland,428,,B+
+University of Lausanne,Switzerland,316,,A
+Sorbonne University,France,60,,S
+École Normale Supérieure,France,26,,S+
+École Polytechnique,France,61,,S
+Sciences Po Paris,France,259,,A
+Université PSL,France,26,,S+
+University of Lyon,France,365,,A
+University of Strasbourg,France,421,,B+
+University of Bordeaux,France,594,,B+
+University of Montpellier,France,327,,A
+Université Grenoble Alpes,France,314,,A
+University of Toulouse,France,912,,B
+University of Nice,France,1201,,C
+University of Lille,France,801,,B
+Aix-Marseille University,France,411,,B+
+University of Rennes,France,701,,B
+University of Nantes,France,701,,B
+University of Clermont Auvergne,France,801,,B
+University of Caen,France,1001,,C
+University of Dijon,France,1201,,C
+University of Poitiers,France,1201,,C
+University of Oxford,UK,2,,S+
+University of Cambridge,UK,2,,S+
+Imperial College London,UK,6,,S+
+University College London,UK,8,,S+
+King's College London,UK,35,,S+
+London School of Economics,UK,56,,S
+University of Edinburgh,UK,22,,S+
+University of Manchester,UK,28,,S+
+University of Warwick,UK,64,,S
+University of Bristol,UK,62,,S
+University of Glasgow,UK,76,,S
+University of Birmingham,UK,84,,S
+University of Sheffield,UK,96,,A+
+University of St Andrews,UK,96,,A+
+Durham University,UK,86,,S
+University of Leeds,UK,86,,S
+University of Southampton,UK,78,,S
+University of York,UK,162,,A+
+University of Exeter,UK,163,,A+
+University of Bath,UK,148,,A+
+Lancaster University,UK,122,,A+
+University of Leicester,UK,279,,A
+University of Surrey,UK,267,,A
+University of Sussex,UK,240,,A+
+University of East Anglia,UK,344,,A
+University of Reading,UK,229,,A+
+University of Essex,UK,465,,B+
+Brunel University,UK,412,,B+
+University of Kent,UK,375,,A
+Loughborough University,UK,256,,A
+City University London,UK,355,,A
+Queen Mary University,UK,117,,A+
+Goldsmiths University,UK,416,,B+
+Birkbeck University,UK,306,,A
+Royal Holloway,UK,334,,A
+SOAS University,UK,346,,A
+University of Portsmouth,UK,651,,B
+University of Plymouth,UK,651,,B
+University of Greenwich,UK,1001,,C
+University of Westminster,UK,701,,B
+Middlesex University,UK,801,,B
+University of Bedfordshire,UK,1201,,C
+Nanyang Technological University,Singapore,13,,S+
+National University of Singapore,Singapore,11,,S+
+Singapore Management University,Singapore,561,,B+
+Singapore University of Technology,Singapore,429,,B+
+Singapore Institute of Technology,Singapore,1001,,C
+University of Hong Kong,Hong Kong,26,,S+
+Chinese University of Hong Kong,Hong Kong,47,,S+
+Hong Kong University of Science and Technology,Hong Kong,40,,S+
+City University of Hong Kong,Hong Kong,70,,S
+Hong Kong Polytechnic University,Hong Kong,66,,S
+Hong Kong Baptist University,Hong Kong,287,,A
+Lingnan University,Hong Kong,601,,B+
+Education University of Hong Kong,Hong Kong,1201,,C
+Macau University,Macau,322,,A
+University of Sydney,Australia,19,,S+
+University of Melbourne,Australia,14,,S+
+Australian National University,Australia,30,,S+
+University of Queensland,Australia,50,,S+
+University of New South Wales,Australia,45,,S+
+Monash University,Australia,57,,S
+University of Western Australia,Australia,90,,A+
+University of Adelaide,Australia,106,,A+
+University of Technology Sydney,Australia,137,,A+
+Queensland University of Technology,Australia,189,,A+
+Curtin University,Australia,193,,A+
+Deakin University,Australia,266,,A
+Griffith University,Australia,300,,A
+La Trobe University,Australia,362,,A
+Macquarie University,Australia,195,,A+
+RMIT University,Australia,140,,A+
+University of South Australia,Australia,326,,A
+University of Tasmania,Australia,303,,A
+University of Wollongong,Australia,162,,A+
+Western Sydney University,Australia,436,,B+
+Charles Darwin University,Australia,951,,B
+Central Queensland University,Australia,1201,,C
+University of Southern Queensland,Australia,1201,,C
+University of the Sunshine Coast,Australia,1001,,C
+Victoria University,Australia,801,,B
+Swinburne University,Australia,296,,A
+Murdoch University,Australia,561,,B+
+Edith Cowan University,Australia,651,,B
+Flinders University,Australia,425,,B+
+Bond University,Australia,451,,B+
+University of Canberra,Australia,551,,B+
+Australian Catholic University,Australia,801,,B
+Charles Sturt University,Australia,1001,,C
+University of New England,Australia,801,,B
+Southern Cross University,Australia,1201,,C
+Tokyo Institute of Technology,Japan,56,,S
+Osaka University,Japan,68,,S
+Tohoku University,Japan,79,,S
+Nagoya University,Japan,112,,A+
+Kyushu University,Japan,135,,A+
+Hokkaido University,Japan,145,,A+
+Tsukuba University,Japan,355,,A
+Keio University,Japan,201,,A+
+Waseda University,Japan,203,,A+
+Tokyo University of Science,Japan,431,,B+
+Sophia University,Japan,801,,B
+Meiji University,Japan,801,,B
+Ritsumeikan University,Japan,1001,,C
+Kansai University,Japan,1201,,C
+Doshisha University,Japan,1001,,C
+Chuo University,Japan,1201,,C
+Nihon University,Japan,1201,,C
+Tokai University,Japan,1201,,C
+University of Electro-Communications,Japan,801,,B
+Tokyo University of Agriculture,Japan,1201,,C
+Yonsei University,South Korea,76,,S
+Korea University,South Korea,79,,S
+Sungkyunkwan University,South Korea,88,,A+
+Hanyang University,South Korea,164,,A+
+Kyung Hee University,South Korea,264,,A
+Ewha Womans University,South Korea,331,,A
+Sogang University,South Korea,435,,B+
+Chung-Ang University,South Korea,494,,B+
+Konkuk University,South Korea,651,,B
+Dongguk University,South Korea,701,,B
+Inha University,South Korea,651,,B
+Ajou University,South Korea,701,,B
+University of Ulsan,South Korea,1001,,C
+Pusan National University,South Korea,651,,B
+Chonnam National University,South Korea,1001,,C
+Chungbuk National University,South Korea,1201,,C
+Universidad Nacional Autónoma de México,Mexico,103,,A+
+Tecnológico de Monterrey,Mexico,170,,A+
+Universidad Autónoma Metropolitana,Mexico,601,,B+
+Universidad de Guadalajara,Mexico,1001,,C
+Universidad Autónoma de Nuevo León,Mexico,1201,,C
+Instituto Politécnico Nacional,Mexico,1201,,C
+Universidad Veracruzana,Mexico,1201,,C
+Universidad de Sonora,Mexico,1201,,C
+Universidad Autónoma de Puebla,Mexico,1201,,C
+Universidad de Colima,Mexico,1201,,C
+Universidad de Buenos Aires,Argentina,67,,S
+Universidad Austral,Argentina,801,,B
+Universidad Católica Argentina,Argentina,1001,,C
+Universidad de San Andrés,Argentina,1201,,C
+Universidad Nacional de La Plata,Argentina,1001,,C
+Universidad Nacional de Córdoba,Argentina,1201,,C
+Universidad del Salvador,Argentina,1201,,C
+Universidade de São Paulo,Brazil,85,,A+
+Universidade Estadual de Campinas,Brazil,233,,A+
+Universidade Federal do Rio de Janeiro,Brazil,381,,A
+Pontifícia Universidade Católica do Rio de Janeiro,Brazil,601,,B+
+Universidade Federal de Minas Gerais,Brazil,701,,B
+Universidade Federal do Rio Grande do Sul,Brazil,801,,B
+Universidade de Brasília,Brazil,1001,,C
+Universidade Federal de Santa Catarina,Brazil,1001,,C
+Universidade Federal da Bahia,Brazil,1201,,C
+Universidade Federal do Paraná,Brazil,1201,,C
+Universidad de Chile,Chile,180,,A+
+Pontificia Universidad Católica de Chile,Chile,121,,A+
+Universidad de Concepción,Chile,701,,B
+Universidad Técnica Federico Santa María,Chile,801,,B
+Universidad de Santiago de Chile,Chile,1001,,C
+Universidad Católica del Norte,Chile,1201,,C
+Universidad de los Andes Colombia,Colombia,227,,A+
+Universidad Nacional de Colombia,Colombia,259,,A
+Universidad Javeriana,Colombia,701,,B
+Universidad de Antioquia,Colombia,1001,,C
+Universidad del Valle,Colombia,1201,,C
+Universidad Industrial de Santander,Colombia,1201,,C
+Universidad Externado de Colombia,Colombia,1201,,C
+University of Cape Town,South Africa,171,,A+
+University of the Witwatersrand,South Africa,428,,B+
+Stellenbosch University,South Africa,296,,A
+University of KwaZulu-Natal,South Africa,416,,B+
+University of Pretoria,South Africa,561,,B+
+University of the Western Cape,South Africa,1201,,C
+Rhodes University,South Africa,1201,,C
+University of Johannesburg,South Africa,1201,,C
+North-West University,South Africa,1201,,C
+University of the Free State,South Africa,1201,,C
+University of New South Wales,Australia,45,,S+
+Monash University,Australia,57,,S
+University of Toronto,Canada,21,,S+
+University of British Columbia,Canada,34,,S+
+McGill University,Canada,31,,S+
+McMaster University,Canada,152,,A+
+University of Waterloo,Canada,112,,A+
+Technical University of Munich,Germany,37,,S+
+Ludwig Maximilian University,Germany,54,,S+
+Heidelberg University,Germany,64,,S
+KIT Karlsruhe,Germany,119,,A+
+RWTH Aachen University,Germany,147,,A+
+Sorbonne University,France,44,,S+
+École Polytechnique,France,61,,S
+École Normale Supérieure,France,23,,S+
+Sciences Po,France,259,,A
+University of São Paulo,Brazil,115,,A+
+Universidade Estadual de Campinas,Brazil,233,,A
+Pontifical Catholic University,Brazil,801,,B+
+University of Cape Town,South Africa,237,,A
+University of the Witwatersrand,South Africa,428,,B+
+Cairo University,Egypt,561,,B
+American University in Cairo,Egypt,415,,B+
+King Saud University,Saudi Arabia,105,,A+
+King Abdulaziz University,Saudi Arabia,143,,A+
+American University of Beirut,Lebanon,226,,A
+Tel Aviv University,Israel,203,,A+
+Hebrew University of Jerusalem,Israel,128,,A+
+University of Pennsylvania,USA,13,,S+
+Yale University,USA,16,,S+
+Columbia University,USA,17,,S+
+Princeton University,USA,18,,S+
+Cornell University,USA,19,,S+
+University of Michigan,USA,21,,S+
+Northwestern University,USA,25,,S+
+New York University,USA,27,,S+
+University of California Los Angeles,USA,29,,S+
+University of California Berkeley,USA,32,,S+
+Duke University,USA,34,,S+
+Johns Hopkins University,USA,28,,S+
+Carnegie Mellon University,USA,52,,S
+University of California San Diego,USA,62,,S
+University of Texas at Austin,USA,58,,A+
+Georgia Institute of Technology,USA,97,,A+
+University of Illinois,USA,85,,A+
+Purdue University,USA,129,,A+
+University of Washington,USA,68,,A+
+University of Southern California,USA,116,,A+
+Boston University,USA,108,,A+
+Rice University,USA,123,,A+
+Vanderbilt University,USA,199,,A+
+Emory University,USA,155,,A+
+University of Rochester,USA,147,,A+
+Case Western Reserve University,USA,176,,A+
+Northeastern University,USA,344,,A
+Arizona State University,USA,179,,A
+University of Arizona,USA,285,,A
+University of Colorado Boulder,USA,284,,A
+University of Florida,USA,173,,A
+University of Virginia,USA,112,,A+
+Virginia Tech,USA,265,,A
+University of North Carolina,USA,136,,A+
+North Carolina State University,USA,362,,A
+University of Miami,USA,280,,A
+Florida Institute of Technology,USA,401,,B+
+University of South Florida,USA,471,,B+
+University of Central Florida,USA,551,,B
+Florida International University,USA,591,,B
+Nova Southeastern University,USA,701,,B
+Florida Atlantic University,USA,801,,B
+Florida State University,USA,234,,A
+University of Georgia,USA,289,,A
+Georgia State University,USA,651,,B
+Clemson University,USA,431,,B+
+University of South Carolina,USA,467,,B+
+College of Charleston,USA,801,,B
+University of Tennessee,USA,506,,B
+Vanderbilt University,USA,199,,A+
+University of Kentucky,USA,651,,B
+University of Louisville,USA,701,,B
+Western Kentucky University,USA,1001,,C
+Eastern Kentucky University,USA,1201,,C
+University of Alabama,USA,421,,B+
+Auburn University,USA,511,,B
+University of Mississippi,USA,701,,B
+Mississippi State University,USA,751,,B
+University of Arkansas,USA,651,,B
+Arkansas State University,USA,1001,,C
+Louisiana State University,USA,461,,B+
+Tulane University,USA,379,,A
+University of New Orleans,USA,1201,,C
+Loyola University New Orleans,USA,1001,,C
+University of Oklahoma,USA,416,,B+
+Oklahoma State University,USA,701,,B
+University of Kansas,USA,531,,B
+Kansas State University,USA,701,,B
+Wichita State University,USA,1001,,C
+University of Nebraska,USA,651,,B
+Creighton University,USA,1001,,C
+University of Iowa,USA,239,,A
+Iowa State University,USA,331,,A
+Drake University,USA,1001,,C
+University of Missouri,USA,651,,B
+Missouri University of Science and Technology,USA,801,,B
+Saint Louis University,USA,651,,B
+Washington University in St. Louis,USA,24,,S+
+University of Minnesota,USA,166,,A+
+Carleton College,USA,9999,,A
+Macalester College,USA,9999,,A
+University of Wisconsin Madison,USA,83,,A+
+Marquette University,USA,801,,B
+University of Milwaukee,USA,1001,,C
+University of North Dakota,USA,1201,,C
+North Dakota State University,USA,1201,,C
+University of South Dakota,USA,1201,,C
+South Dakota State University,USA,1201,,C
+Montana State University,USA,1001,,C
+University of Montana,USA,1201,,C
+University of Wyoming,USA,1201,,C
+Colorado State University,USA,441,,B+
+University of Denver,USA,801,,B
+Colorado School of Mines,USA,403,,B+
+University of Utah,USA,269,,A
+Utah State University,USA,801,,B
+Brigham Young University,USA,115,,A+
+University of Nevada Las Vegas,USA,651,,B
+University of Nevada Reno,USA,801,,B
+Boise State University,USA,1001,,C
+University of Idaho,USA,1201,,C
+Idaho State University,USA,1201,,C
+Portland State University,USA,1001,,C
+University of Oregon,USA,272,,A
+Oregon State University,USA,411,,B+
+Reed College,USA,9999,,A+
+Lewis & Clark College,USA,9999,,A
+Willamette University,USA,9999,,A
+University of Washington,USA,68,,A+
+Washington State University,USA,451,,B+
+Western Washington University,USA,1001,,C
+Central Washington University,USA,1201,,C
+Gonzaga University,USA,1001,,C
+Seattle University,USA,1001,,C
+University of Alaska Anchorage,USA,1201,,C
+University of Alaska Fairbanks,USA,1201,,C
+University of Hawaii,USA,429,,B+
+Hawaii Pacific University,USA,1201,,C
+Chaminade University,USA,1201,,C
+University of Vermont,USA,515,,B
+Middlebury College,USA,9999,,A+
+Dartmouth College,USA,12,,S+
+University of New Hampshire,USA,801,,B
+Plymouth State University,USA,1201,,C
+University of Maine,USA,1001,,C
+Bowdoin College,USA,9999,,A+
+Colby College,USA,9999,,A+
+Bates College,USA,9999,,A+
+University of Rhode Island,USA,801,,B
+Brown University,USA,15,,S+
+Bryant University,USA,1001,,C
+Johnson & Wales University,USA,1201,,C
+University of Connecticut,USA,362,,A
+Connecticut College,USA,9999,,A
+Wesleyan University,USA,9999,,A+
+Trinity College,USA,9999,,A+
+Sacred Heart University,USA,1201,,C
+Fairfield University,USA,1001,,C
+University of Bridgeport,USA,1201,,C
+Quinnipiac University,USA,1001,,C
+IIT Bhubaneswar,India,,11,A+
+IIT Mandi,India,,12,A+
+IIT Gandhinagar,India,,13,A+
+IIT Jodhpur,India,,14,A+
+IIT Patna,India,,15,A+
+IIT Tirupati,India,,16,A+
+IIT Bhilai,India,,17,A+
+IIT Goa,India,,18,A+
+IIT Jammu,India,,19,A+
+IIT Dharwad,India,,20,A+
+NIT Calicut,India,,15,A+
+NIT Rourkela,India,,16,A+
+NIT Kurukshetra,India,,17,A+
+NIT Jamshedpur,India,,18,A+
+NIT Durgapur,India,,19,A+
+NIT Allahabad,India,,20,A+
+NIT Bhopal,India,,21,A+
+NIT Nagpur,India,,22,A+
+NIT Raipur,India,,23,A+
+NIT Agartala,India,,24,A+
+NIT Hamirpur,India,,25,A+
+NIT Jalandhar,India,,26,A+
+NIT Patna,India,,27,A+
+NIT Silchar,India,,28,A+
+NIT Srinagar,India,,29,A+
+NIT Uttarakhand,India,,30,A+
+NIT Goa,India,,31,A+
+NIT Meghalaya,India,,32,A+
+NIT Manipur,India,,33,A+
+NIT Mizoram,India,,34,A+
+NIT Sikkim,India,,35,A+
+NIT Andhra Pradesh,India,,36,A+
+NIT Delhi,India,,37,A+
+NIT Puducherry,India,,38,A+
+IIIT Hyderabad,India,,39,A+
+IIIT Bangalore,India,,40,A+
+IIIT Delhi,India,,41,A+
+IIIT Allahabad,India,,42,A+
+IIIT Gwalior,India,,43,A+
+IIIT Jabalpur,India,,44,A+
+IIIT Kancheepuram,India,,45,A+
+IIIT Lucknow,India,,46,A+
+IIIT Vadodara,India,,47,A+
+IIIT Una,India,,48,A+
+IIIT Kota,India,,49,A+
+IIIT Ranchi,India,,50,A+
+IIIT Sonepat,India,,51,A+
+IIIT Kalyani,India,,52,A+
+IIIT Bhagalpur,India,,53,A+
+IIIT Bhopal,India,,54,A+
+IIIT Dharwad,India,,55,A+
+IIIT Kurnool,India,,56,A+
+IIIT Manipur,India,,57,A+
+IIIT Nagpur,India,,58,A+
+IIIT Pune,India,,59,A+
+IIIT Raichur,India,,60,A+
+IIIT Tiruchirappalli,India,,61,A+
+ISI Kolkata,India,,62,A+
+ISI Delhi,India,,63,A+
+ISI Bangalore,India,,64,A+
+ISI Chennai,India,,65,A+
+ISM Dhanbad,India,,66,A+
+IISER Pune,India,,67,A+
+IISER Kolkata,India,,68,A+
+IISER Mohali,India,,69,A+
+IISER Bhopal,India,,70,A+
+IISER Thiruvananthapuram,India,,71,A+
+IISER Tirupati,India,,72,A+
+IISER Berhampur,India,,73,A+
+NISER Bhubaneswar,India,,74,A+
+CEERI Pilani,India,,75,A+
+TIFR Mumbai,India,,76,A+
+IISc Bangalore,India,,77,S
+CMI Chennai,India,,78,A+
+IMSc Chennai,India,,79,A+
+HRI Allahabad,India,,80,A+
+SINP Kolkata,India,,81,A+
+IACS Kolkata,India,,82,A+
+NCBS Bangalore,India,,83,A+
+InStem Bangalore,India,,84,A+
+CCMB Hyderabad,India,,85,A+
+CDFD Hyderabad,India,,86,A+
+IGIB Delhi,India,,87,A+
+NII Delhi,India,,88,A+
+IIPH Hyderabad,India,,89,A+
+NIPGR Delhi,India,,90,A+
+IIM Ahmedabad,India,,91,S
+IIM Bangalore,India,,92,S
+IIM Calcutta,India,,93,S
+IIM Lucknow,India,,94,A+
+IIM Indore,India,,95,A+
+IIM Kozhikode,India,,96,A+
+IIM Rohtak,India,,97,A+
+IIM Ranchi,India,,98,A+
+IIM Raipur,India,,99,A+
+IIM Trichy,India,,100,A+
+IIM Udaipur,India,,101,A+
+IIM Kashipur,India,,102,A+
+IIM Nagpur,India,,103,A+
+IIM Visakhapatnam,India,,104,A+
+IIM Amritsar,India,,105,A+
+IIM Bodh Gaya,India,,106,A+
+IIM Jammu,India,,107,A+
+IIM Sambalpur,India,,108,A+
+IIM Sirmaur,India,,109,A+
+XLRI Jamshedpur,India,,110,A+
+FMS Delhi,India,,111,A+
+JBIMS Mumbai,India,,112,A+
+SIIB Pune,India,,113,A+
+MDI Gurgaon,India,,114,A+
+SPJIMR Mumbai,India,,115,A+
+IMT Ghaziabad,India,,116,A+
+NITIE Mumbai,India,,117,A+
+Great Lakes Chennai,India,,118,A+
+IIFT Delhi,India,,119,A+
+XIMB Bhubaneswar,India,,120,A+
+Fore Delhi,India,,121,A+
+IMI Delhi,India,,122,A+
+TAPMI Manipal,India,,123,A+
+SCMHRD Pune,India,,124,A+
+K J Somaiya Mumbai,India,,125,A+
+NMIMS Mumbai,India,,126,A+
+Indian Statistical Institute,India,,127,A+
+Tata Institute of Fundamental Research,India,,128,A+
+Indian Institute of Science Education,India,,129,A+
+National Institute of Mental Health,India,,130,A+
+All India Institute of Medical Sciences Delhi,India,,131,S
+AIIMS Mumbai,India,,132,A+
+AIIMS Bhopal,India,,133,A+
+AIIMS Bhubaneswar,India,,134,A+
+AIIMS Jodhpur,India,,135,A+
+AIIMS Patna,India,,136,A+
+AIIMS Raipur,India,,137,A+
+AIIMS Rishikesh,India,,138,A+
+PGIMER Chandigarh,India,,139,A+
+JIPMER Puducherry,India,,140,A+
+NIMHANS Bangalore,India,,141,A+
+CMC Vellore,India,,142,A+
+Armed Forces Medical College,India,,143,A+
+King George Medical University,India,,144,A+
+Maulana Azad Medical College,India,,145,A+
+Grant Medical College Mumbai,India,,146,A+
+Seth GS Medical College Mumbai,India,,147,A+
+Topiwala National Medical College,India,,148,A+
+B J Medical College Ahmedabad,India,,149,A+
+Government Medical College Chandigarh,India,,150,A+
+Madras Medical College,India,,151,A+
+Stanley Medical College Chennai,India,,152,A+
+Thanjavur Medical College,India,,153,A+
+Coimbatore Medical College,India,,154,A+
+Kempegowda Institute of Medical Sciences,India,,155,A+
+Bangalore Medical College,India,,156,A+
+Mysore Medical College,India,,157,A+
+JJM Medical College Davangere,India,,158,B+
+SDM College of Medical Sciences,India,,159,B+
+Kasturba Medical College Manipal,India,,160,A+
+Kasturba Medical College Mangalore,India,,161,A+
+Father Muller Medical College,India,,162,B+
+AJ Institute of Medical Sciences,India,,163,B+
+Yenepoya Medical College,India,,164,B+
+KS Hegde Medical Academy,India,,165,B+
+Srinivas Institute of Medical Sciences,India,,166,B+
+Institute of Medical Sciences BHU,India,,167,A+
+Era's Lucknow Medical College,India,,168,B+
+Sharda University Medical College,India,,169,B+
+Integral Institute of Medical Sciences,India,,170,B+
+Santosh Medical College Ghaziabad,India,,171,B+
+Subharti Medical College Meerut,India,,172,B+
+Muzaffarnagar Medical College,India,,173,B+
+Rohilkhand Medical College,India,,174,B+
+Lala Lajpat Rai Memorial Medical College,India,,175,B+
+Pt BD Sharma PGIMS Rohtak,India,,176,A+
+Maharishi Markandeshwar Institute,India,,177,B+
+Adesh Institute of Medical Sciences,India,,178,B+
+Christian Medical College Ludhiana,India,,179,B+
+Dayanand Medical College Ludhiana,India,,180,B+
+Government Medical College Patiala,India,,181,B+
+Rajindra Hospital Patiala,India,,182,B+
+Punjab Institute of Medical Sciences,India,,183,B+
+Gian Sagar Medical College,India,,184,B+
+Sri Guru Ram Das Institute,India,,185,B+
+Shaheed Hasan Khan Mewati Government Medical College,India,,186,B+
+Government Medical College Pali,India,,187,B+
+RNT Medical College Udaipur,India,,188,B+
+SN Medical College Jodhpur,India,,189,B+
+SMS Medical College Jaipur,India,,190,B+
+Mahatma Gandhi Medical College Jaipur,India,,191,B+
+National Institute of Medical Sciences,India,,192,B+
+Jaipur National University Institute,India,,193,B+
+American International Institute,India,,194,B+
+Pacific Medical College Udaipur,India,,195,B+
+Maharaj Vinayak Global University,India,,196,B+
+Rajasthan University of Health Sciences,India,,197,B+
+Government Medical College Kota,India,,198,B+
+Government Medical College Bharatpur,India,,199,B+
+Sawai Man Singh Medical College,India,,200,B+
+St. Stephens College Delhi,India,,201,A
+Hindu College Delhi,India,,202,A
+Miranda House Delhi,India,,203,A
+Lady Shri Ram College Delhi,India,,204,A
+Shri Ram College Delhi,India,,205,A
+Hansraj College Delhi,India,,206,A
+Ramjas College Delhi,India,,207,A
+Kirori Mal College Delhi,India,,208,A
+Daulat Ram College Delhi,India,,209,A
+Jesus and Mary College Delhi,India,,210,A
+Gargi College Delhi,India,,211,A
+Indraprastha College Delhi,India,,212,A
+Bharati College Delhi,India,,213,A
+Deshbandhu College Delhi,India,,214,B+
+Zakir Husain College Delhi,India,,215,B+
+Atma Ram Sanatan Dharma College,India,,216,B+
+Dyal Singh College Delhi,India,,217,B+
+Kamala Nehru College Delhi,India,,218,B+
+Maitreyi College Delhi,India,,219,B+
+Rajdhani College Delhi,India,,220,B+
+ARSD College Delhi,India,,221,B+
+Keshav Mahavidyalaya Delhi,India,,222,B+
+PGDAV College Delhi,India,,223,B+
+Swami Shraddhanand College Delhi,India,,224,B+
+Maharaja Agrasen College Delhi,India,,225,B+
+Acharya Narendra Dev College Delhi,India,,226,B+
+Aditi Mahavidyalaya Delhi,India,,227,B+
+Bhagini Nivedita College Delhi,India,,228,B+
+Bhaskaracharya College Delhi,India,,229,B+
+Delhi College of Arts and Commerce,India,,230,B+
+Dr. Bhim Rao Ambedkar College,India,,231,B+
+Guru Gobind Singh Indraprastha University,India,,232,B+
+Jamia Hamdard Delhi,India,,233,B+
+TERI University Delhi,India,,234,B+
+Ashoka University Haryana,India,,235,A+
+OP Jindal Global University,India,,236,A+
+Shiv Nadar University UP,India,,237,A+
+Flame University Pune,India,,238,A+
+Azim Premji University Bangalore,India,,239,A+
+IFHE Hyderabad,India,,240,A+
+Bennett University UP,India,,241,A+
+Krea University AP,India,,242,A+
+Plaksha University Punjab,India,,243,A+
+Mahindra University Hyderabad,India,,244,A+
+Presidency University Kolkata,India,,245,A
+University of Calcutta,India,,246,A
+Rabindra Bharati University,India,,247,B+
+West Bengal University of Technology,India,,248,B+
+Kalyani University,India,,249,B+
+Burdwan University,India,,250,B+
+North Bengal University,India,,251,B+
+Vidyasagar University,India,,252,B+
+Haldia Institute of Technology,India,,253,B
+Heritage Institute of Technology,India,,254,B
+Techno India University Kolkata,India,,255,B
+Brainware University Kolkata,India,,256,B
+Sister Nivedita University,India,,257,B
+Adamas University Kolkata,India,,258,B
+JIS University Kolkata,India,,259,B
+Maulana Abul Kalam Azad University,India,,260,B
+Netaji Subhas Open University,India,,261,B
+West Bengal State University,India,,262,B
+Calcutta Institute of Engineering,India,,263,B
+Institute of Engineering Management,India,,264,B
+Narula Institute of Technology,India,,265,B
+NSHM Knowledge Campus Kolkata,India,,266,B
+Seacom Engineering College,India,,267,B
+Techno Main Salt Lake,India,,268,B
+University of Engineering Management,India,,269,B
+Amity University Kolkata,India,,270,B
+University of Mumbai,India,,271,B+
+Tata Institute of Social Sciences,India,,272,A
+K J Somaiya College Mumbai,India,,273,A
+St. Xavier's College Mumbai,India,,274,A
+Jai Hind College Mumbai,India,,275,A
+HR College Mumbai,India,,276,B+
+Mithibai College Mumbai,India,,277,B+
+Ruia College Mumbai,India,,278,B+
+KC College Mumbai,India,,279,B+
+Wilson College Mumbai,India,,280,B+
+Sophia College Mumbai,India,,281,B+
+Kishinchand Chellaram College,India,,282,B+
+Narsee Monjee College Mumbai,India,,283,B+
+Thakur College Mumbai,India,,284,B
+Vivekanand College Mumbai,India,,285,B
+Elphinstone College Mumbai,India,,286,B+
+Government Law College Mumbai,India,,287,B+
+GD Goenka University Mumbai,India,,288,B
+Unitedworld Institute of Technology,India,,289,B
+Kalinga University Raipur,India,,290,B
+Centurion University Odisha,India,,291,B
+Silicon Institute of Technology,India,,292,B
+Trident Academy of Technology,India,,293,B
+Institute of Technical Education,India,,294,B
+CV Raman College of Engineering,India,,295,B
+Siksha O Anusandhan,India,,296,B+
+KIIT University Bhubaneswar,India,,297,B+
+Xavier Institute of Management,India,,298,A
+Utkal University,India,,299,B+
+Berhampur University,India,,300,B+
+Sambalpur University,India,,301,B+
+Fakir Mohan University,India,,302,B
+North Orissa University,India,,303,B
+IGNOU Delhi,India,,304,B
+Bharathiar University Coimbatore,India,,305,B+
+Bharathidasan University Trichy,India,,306,B+
+Madurai Kamaraj University,India,,307,B+
+Manonmaniam Sundaranar University,India,,308,B+
+Periyar University Salem,India,,309,B+
+Thiruvalluvar University,India,,310,B+
+Tamil Nadu Open University,India,,311,B
+Dr. MGR Educational Research Institute,India,,312,B
+SRM Institute of Science Technology,India,,313,B+
+VIT Chennai,India,,314,B+
+Hindustan Institute of Technology,India,,315,B
+Sathyabama Institute Chennai,India,,316,B
+SSN College of Engineering,India,,317,B+
+PSG College of Technology,India,,318,B+
+Kumaraguru College of Technology,India,,319,B
+Kongu Engineering College,India,,320,B
+Karunya Institute of Technology,India,,321,B
+Amrita Vishwa Vidyapeetham,India,,322,B+
+Thiagarajar College of Engineering,India,,323,B
+Mepco Schlenk Engineering College,India,,324,B
+Sethu Institute of Technology,India,,325,B
+Kalasalingam Academy of Research,India,,326,B
+CEG Anna University Chennai,India,,327,B+
+MIT Campus Anna University,India,,328,B+
+AC Tech Anna University,India,,329,B+
+Government College of Technology,India,,330,B+
+TCE Madurai,India,,331,B
+REC Trichy,India,,332,B+
+Government College of Engineering Salem,India,,333,B
+Government College of Engineering Tirunelveli,India,,334,B
+St. Joseph's College of Engineering,India,,335,B
+RMK Engineering College Chennai,India,,336,B
+RMD Engineering College Chennai,India,,337,B
+Rajalakshmi Engineering College,India,,338,B
+Panimalar Engineering College,India,,339,B
+Sri Sairam Engineering College,India,,340,B
+Velammal Engineering College,India,,341,B
+Saveetha Engineering College,India,,342,B
+Easwari Engineering College,India,,343,B
+Vel Tech Rangarajan Dr. Sagunthala,India,,344,B
+Agni College of Technology,India,,345,B
+Alpha College of Engineering,India,,346,B
+Kings Engineering College,India,,347,B
+Loyola College Chennai,India,,348,A
+Presidency College Chennai,India,,349,B+
+Madras Christian College,India,,350,B+
+Stella Maris College Chennai,India,,351,B+
+Women's Christian College Chennai,India,,352,B+
+Ethiraj College for Women,India,,353,B+
+Queen Mary's College Chennai,India,,354,B+
+Justice Basheer Ahmed Sayeed College,India,,355,B+
+MOP Vaishnav College Chennai,India,,356,B+
+Pachaiyappa's College Chennai,India,,357,B+
+Quaid-E-Millath Government College,India,,358,B
+Dr. Ambedkar Government Arts College,India,,359,B
+Government Engineering College Thrissur,India,,360,B+
+Government Engineering College Kozhikode,India,,361,B
+College of Engineering Trivandrum,India,,362,B+
+Model Engineering College Kochi,India,,363,B
+Rajagiri School of Engineering,India,,364,B
+FISAT Angamaly,India,,365,B
+Mar Athanasius College of Engineering,India,,366,B
+TKM College of Engineering,India,,367,B
+Government Engineering College Barton Hill,India,,368,B
+LBS Institute of Technology for Women,India,,369,B
+NSS College of Engineering Palakkad,India,,370,B
+Government College of Engineering Kannur,India,,371,B
+Adi Shankara Institute of Engineering,India,,372,B
+APJ Abdul Kalam Technological University,India,,373,B+
+Bishop Moore College Mavelikara,India,,374,B
+CMS College Kottayam,India,,375,B
+Deva Matha College Kuravilangad,India,,376,B
+Fatima Mata National College,India,,377,B
+Maharaja's College Ernakulam,India,,378,B
+Mar Ivanios College Trivandrum,India,,379,B
+Newman College Thodupuzha,India,,380,B
+Sacred Heart College Thevara,India,,381,B
+St. Albert's College Ernakulam,India,,382,B
+St. Berchmans College Changanassery,India,,383,B
+St. Thomas College Thrissur,India,,384,B
+UC College Aluva,India,,385,B
+Union Christian College Aluva,India,,386,B
+University College Trivandrum,India,,387,B+
+Karnatak University Dharwad,India,,388,B+
+Mysore University,India,,389,B+
+Mangalore University,India,,390,B+
+Kuvempu University,India,,391,B+
+Gulbarga University,India,,392,B+
+Tumkur University,India,,393,B
+Davanagere University,India,,394,B
+Bangalore North University,India,,395,B
+Bangalore Central University,India,,396,B
+Karnataka State Open University,India,,397,B
+Visvesvaraya Technological University,India,,398,B+
+PES University Bangalore,India,,399,B+
+RV College of Engineering,India,,400,B+
+BMS College of Engineering,India,,401,B+
+MS Ramaiah Institute of Technology,India,,402,B+
+Dayananda Sagar College of Engineering,India,,403,B
+New Horizon College of Engineering,India,,404,B
+Sir M Visvesvaraya Institute of Technology,India,,405,B+
+Bangalore Institute of Technology,India,,406,B
+Acharya Institute of Technology,India,,407,B
+B N M Institute of Technology,India,,408,B
+East West Institute of Technology,India,,409,B
+Global Academy of Technology,India,,410,B
+Jain University Bangalore,India,,411,B
+JSS Academy of Technical Education,India,,412,B
+Kalpataru Institute of Technology,India,,413,B
+KLE Technological University,India,,414,B
+BNMIT Bangalore,India,,415,B
+CMR Institute of Technology,India,,416,B
+Dr. Ambedkar Institute of Technology,India,,417,B
+Nitte Meenakshi Institute of Technology,India,,418,B
+Oxford College of Engineering,India,,419,B
+Reva University Bangalore,India,,420,B
+RNSIT Bangalore,India,,421,B
+Sapthagiri College of Engineering,India,,422,B
+Siddaganga Institute of Technology,India,,423,B
+The Oxford College of Engineering,India,,424,B
+Mount Carmel College Bangalore,India,,425,B+
+St. Joseph's College Bangalore,India,,426,A
+St. Aloysius College Mangalore,India,,427,B
+Manipal Institute of Technology,India,,428,B+
+SDM College of Engineering Dharwad,India,,429,B
+KLE Engineering College Belgaum,India,,430,B
+Basaveshwar Engineering College,India,,431,B
+BVB College of Engineering Hubli,India,,432,B
+BLDEA's VP Dr PG Halakatti,India,,433,B
+JSS Science Technology University,India,,434,B
+NIE Institute of Technology Mysore,India,,435,B
+JNTUH College of Engineering,India,,436,B
+CVR College of Engineering,India,,437,B
+Chaitanya Bharathi Institute,India,,438,B
+Sreenidhi Institute of Science Technology,India,,439,B
+VNR Vignana Jyothi Institute,India,,440,B
+CMR College of Engineering Technology,India,,441,B
+Malla Reddy College of Engineering,India,,442,B
+Vardhaman College of Engineering,India,,443,B
+BV Raju Institute of Technology,India,,444,B
+Geethanjali College of Engineering,India,,445,B
+Guru Nanak Institutions Technical Campus,India,,446,B
+Stanley College of Engineering Technology,India,,447,B
+Vignan's Foundation for Science Technology,India,,448,B
+KL University Vijayawada,India,,449,B
+SRM University AP Amaravati,India,,450,B
+Centurion University of Technology,India,,451,B
+Vellore Institute of Technology AP,India,,452,B+
+Lovely Professional University Punjab,India,,453,B
+Punjabi University Patiala,India,,454,B+
+Punjab Agricultural University,India,,455,B+
+Thapar Institute of Engineering Technology,India,,456,B+
+LPU Jalandhar,India,,457,B
+DAV University Jalandhar,India,,458,B
+Chitkara University Punjab,India,,459,B
+IK Gujral Punjab Technical University,India,,460,B
+Chandigarh University,India,,461,B
+Panjab University Chandigarh,India,,462,B+
+Kurukshetra University,India,,463,B+
+Maharshi Dayanand University,India,,464,B+
+Chaudhary Charan Singh University,India,,465,B+
+Deenbandhu Chhotu Ram University,India,,466,B
+Guru Jambheshwar University Hisar,India,,467,B
+YMCA University Faridabad,India,,468,B
+Manav Rachna International University,India,,469,B
+Ansal University Gurgaon,India,,470,B
+The NorthCap University Gurgaon,India,,471,B
+Amity University Gurgaon,India,,472,B
+BML Munjal University,India,,473,B
+University of Rajasthan Jaipur,India,,474,B+
+Rajasthan Technical University,India,,475,B+
+Rajasthan University of Health Sciences,India,,476,B
+MDS University Ajmer,India,,477,B
+Banasthali Vidyapith,India,,478,B+
+LNM Institute of Information Technology,India,,479,B+
+Poornima College of Engineering,India,,480,B
+Manipal University Jaipur,India,,481,B
+Arya College of Engineering IT,India,,482,B
+Jaipur Engineering College,India,,483,B
+Jaipur National University,India,,484,B
+JK Lakshmipat University,India,,485,B
+Modi Institute of Technology,India,,486,B
+Pink City Engineering College,India,,487,B
+Rajasthan College of Engineering for Women,India,,488,B
+Swami Keshvanand Institute of Technology,India,,489,B
+University of Engineering Management Jaipur,India,,490,B
+Vivekananda Global University,India,,491,B
+Gujarat University Ahmedabad,India,,492,B+
+Sardar Patel University,India,,493,B+
+MS University Baroda,India,,494,B+
+Saurashtra University,India,,495,B+
+South Gujarat University,India,,496,B
+Gujarat Technological University,India,,497,B+
+Nirma University Ahmedabad,India,,498,B+
+Pandit Deendayal Petroleum University,India,,499,B+
+Adani Institute of Infrastructure,India,,500,B
+Ahmedabad University,India,,501,B+
+Charotar University of Science Technology,India,,502,B
+DA-IICT Gandhinagar,India,,503,B+
+Institute of Infrastructure Technology,India,,504,B
+Ganpat University,India,,505,B
+Indian Institute of Teacher Education,India,,506,B
+Rai University Ahmedabad,India,,507,B
+Sankalchand Patel College of Engineering,India,,508,B
+Vishwakarma Government Engineering College,India,,509,B
+LD College of Engineering,India,,510,B
+Government Engineering College Gandhinagar,India,,511,B
+Government Engineering College Rajkot,India,,512,B
+Government Engineering College Bhuj,India,,513,B
+Birla Vishvakarma Mahavidyalaya,India,,514,B
+Marwadi Education Foundation,India,,515,B
+RK University Rajkot,India,,516,B
+Atmiya Institute of Technology Science,India,,517,B
+GIDC Degree Engineering College,India,,518,B
+Parul University Vadodara,India,,519,B
+Gujarat Vidyapith Ahmedabad,India,,520,B
+CEPT University Ahmedabad,India,,521,B+
+Lucknow University,India,,522,B+
+Kanpur University,India,,523,B+
+Allahabad University,India,,524,B+
+Dr. APJ Abdul Kalam Technical University,India,,525,B+
+UP Technical University,India,,526,B+
+Mahatma Gandhi Kashi Vidyapith,India,,527,B
+Deen Dayal Upadhyaya University,India,,528,B
+Veer Bahadur Singh Purvanchal University,India,,529,B
+Bundelkhand University,India,,530,B
+Chhatrapati Shahu Ji Maharaj University,India,,531,B
+CCS University Meerut,India,,532,B
+MJPRU Bareilly,India,,533,B
+Dr. BR Ambedkar University Agra,India,,534,B
+MJP Rohilkhand University,India,,535,B
+INTEGRAL University Lucknow,India,,536,B
+Amity University Lucknow,India,,537,B
+Sharda University Greater Noida,India,,538,B
+Gautam Buddha University,India,,539,B
+Galgotias University Greater Noida,India,,540,B
+Noida International University,India,,541,B
+GL Bajaj Institute of Technology,India,,542,B
+ABES Engineering College Ghaziabad,India,,543,B
+Ajay Kumar Garg Engineering College,India,,544,B
+Krishna Institute of Engineering Technology,India,,545,B
+IMS Engineering College Ghaziabad,India,,546,B
+KIET Group of Institutions,India,,547,B
+Lloyd Institute of Engineering Technology,India,,548,B
+Raj Kumar Goel Institute of Technology,India,,549,B
+Bundelkhand Institute of Engineering,India,,550,B
+Harcourt Butler Technical University,India,,551,B+
+IET Lucknow,India,,552,B+
+Kamla Nehru Institute of Technology,India,,553,B
+KNIT Sultanpur,India,,554,B
+MMMUT Gorakhpur,India,,555,B
+UIET Kanpur,India,,556,B+
+PSIT Kanpur,India,,557,B
+Babu Banarasi Das University,India,,558,B
+Dr. MC Saxena College of Engineering,India,,559,B
+IEC College of Engineering Technology,India,,560,B
+Institute of Engineering Technology Lucknow,India,,561,B
+Maharishi Dayanand University Rohtak,India,,562,B+
+Chaudhary Devi Lal University,India,,563,B
+Maharshi Dayanand Saraswati University,India,,564,B
+Kurukshetra University,India,,565,B+
+Singhania University Rajasthan,India,,566,B
+Poornima University Jaipur,India,,567,B
+Jodhpur National University,India,,568,B
+Rajasthan Technical University Kota,India,,569,B+
+Engineering College Ajmer,India,,570,B
+MBM Engineering College Jodhpur,India,,571,B+
+College of Technology Engineering Udaipur,India,,572,B
+Government Engineering College Ajmer,India,,573,B
+Government Engineering College Bikaner,India,,574,B
+Government Engineering College Jhalawar,India,,575,B
+Government Women Engineering College,India,,576,B
+RTU Kota,India,,577,B+
+University of Kota,India,,578,B
+Vardhman Mahaveer Open University,India,,579,B
+Mohanlal Sukhadia University,India,,580,B+
+Jai Narain Vyas University,India,,581,B+
+Maharaja Ganga Singh University,India,,582,B
+Rajasthan Agricultural University,India,,583,B
+Rajasthan Ayurved University,India,,584,B
+Rajasthan University of Veterinary,India,,585,B
+Shekhawati University,India,,586,B
+Bikaner Technical University,India,,587,B
+Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University,India,,588,B
+Rajasthan Sanskrit University,India,,589,B
+Career Point University,India,,590,B
+Apex University Jaipur,India,,591,B
+Arya Institute of Engineering Technology,India,,592,B
+Jagannath University Jaipur,India,,593,B
+Jagan Nath University,India,,594,B
+Jayoti Vidyapeeth Women's University,India,,595,B
+JECRC University,India,,596,B
+Maharaj Vinayak Global University,India,,597,B
+Raffles University,India,,598,B
+Suresh Gyan Vihar University,India,,599,B
+University of Technology,India,,600,B
+Subodh University,India,,601,B
+Sunrise University,India,,602,B
+Synch Institute of Engineering Technology,India,,603,B
+Malaviya National Institute of Technology Jaipur,India,,604,A+
+Rajasthan Institute of Engineering Technology,India,,605,B
+Swami Vivekanand Subharti University,India,,606,B
+Teerthanker Mahaveer University,India,,607,B
+Invertis University,India,,608,B
+Mangalayatan University,India,,609,B
+RKDF University,India,,610,B
+Madhav University,India,,611,B
+Mats University,India,,612,B
+Oriental University,India,,613,B
+Barkatullah University,India,,614,B+
+Devi Ahilya Vishwavidyalaya,India,,615,B+
+Dr. Hari Singh Gour University,India,,616,B+
+Jiwaji University,India,,617,B+
+Rajiv Gandhi Proudyogiki Vishwavidyalaya,India,,618,B+
+Rani Durgavati Vishwavidyalaya,India,,619,B
+Awadhesh Pratap Singh University,India,,620,B
+Bundelkhand University,India,,621,B
+Chhatrapati Shahu Ji Maharaj University,India,,622,B
+Dr. Ram Manohar Lohia Avadh University,India,,623,B
+Guru Ghasidas Vishwavidyalaya,India,,624,B
+Hemchandracharya North Gujarat University,India,,625,B
+Indira Gandhi National Tribal University,India,,626,B
+Pt. Ravishankar Shukla University,India,,627,B
+Tsinghua University,China,25,,S+
+Peking University,China,17,,S+
+Fudan University,China,50,,S
+Shanghai Jiao Tong University,China,51,,S
+Zhejiang University,China,44,,S+
+University of Science and Technology of China,China,98,,A+
+Nanjing University,China,133,,A+
+Sun Yat-sen University,China,295,,A
+Harbin Institute of Technology,China,256,,A
+Beijing Institute of Technology,China,343,,A
+Tianjin University,China,350,,A
+Xi'an Jiaotong University,China,290,,A
+Huazhong University of Science and Technology,China,406,,B+
+Dalian University of Technology,China,581,,B
+Northeastern University China,China,651,,B
+Beijing University of Technology,China,651,,B
+East China University of Science and Technology,China,701,,B
+Tongji University,China,212,,A+
+Beihang University,China,383,,A
+South China University of Technology,China,406,,B+
+Central South University,China,499,,B
+Chongqing University,China,421,,B+
+Sichuan University,China,426,,B+
+Xiamen University,China,332,,A
+Wuhan University,China,194,,A+
+Hunan University,China,531,,B
+Ocean University of China,China,424,,B+
+China Agricultural University,China,651,,B
+Beijing Normal University,China,272,,A
+East China Normal University,China,273,,A
+Nanjing Normal University,China,701,,B
+Shaanxi Normal University,China,751,,B
+Northeast Normal University,China,801,,B
+Central China Normal University,China,801,,B
+Southwest University,China,801,,B
+Minzu University of China,China,1001,,C
+Yunnan University,China,1001,,C
+Xinjiang University,China,1201,,C
+Tibet University,China,1201,,C
+Qinghai University,China,1201,,C
+Ningxia University,China,1201,,C
+Inner Mongolia University,China,1001,,C
+Guangxi University,China,1001,,C
+Hainan University,China,1201,,C
+Shenzhen University,China,701,,B
+Southern University of Science and Technology,China,323,,A
+University of Hong Kong,Hong Kong,17,,S+
+Chinese University of Hong Kong,Hong Kong,47,,S+
+Hong Kong University of Science and Technology,Hong Kong,47,,S+
+City University of Hong Kong,Hong Kong,70,,S
+Hong Kong Polytechnic University,Hong Kong,65,,S
+Hong Kong Baptist University,Hong Kong,287,,A
+Lingnan University,Hong Kong,641,,B
+Education University of Hong Kong,Hong Kong,1001,,C
+National Taiwan University,Taiwan,76,,S
+National Tsing Hua University,Taiwan,180,,A+
+National Chiao Tung University,Taiwan,189,,A+
+National Yang Ming Chiao Tung University,Taiwan,189,,A+
+National Taiwan University of Science and Technology,Taiwan,309,,A
+National Cheng Kung University,Taiwan,234,,A
+National Sun Yat-sen University,Taiwan,445,,B+
+National Central University,Taiwan,511,,B
+National Taiwan Normal University,Taiwan,331,,A
+Taipei Medical University,Taiwan,387,,A
+National Chengchi University,Taiwan,1001,,C
+Tamkang University,Taiwan,1001,,C
+Fu Jen Catholic University,Taiwan,1201,,C
+Chinese Culture University,Taiwan,1201,,C
+Soochow University Taiwan,Taiwan,1201,,C
+Seoul National University,South Korea,31,,S+
+KAIST,South Korea,56,,S+
+POSTECH,South Korea,100,,A+
+Yonsei University,South Korea,76,,S
+Korea University,South Korea,79,,S
+Sungkyunkwan University,South Korea,145,,A+
+Hanyang University,South Korea,164,,A+
+Kyung Hee University,South Korea,332,,A
+Ewha Womans University,South Korea,355,,A
+Pusan National University,South Korea,481,,B
+Chonnam National University,South Korea,651,,B
+Chungnam National University,South Korea,651,,B
+Inha University,South Korea,701,,B
+Konkuk University,South Korea,751,,B
+Dongguk University,South Korea,801,,B
+Hongik University,South Korea,801,,B
+Kookmin University,South Korea,1001,,C
+Sogang University,South Korea,1001,,C
+Ajou University,South Korea,1001,,C
+Dankook University,South Korea,1201,,C
+Hankuk University of Foreign Studies,South Korea,1201,,C
+University of Tokyo,Japan,28,,S+
+Kyoto University,Japan,38,,S+
+Tokyo Institute of Technology,Japan,91,,A+
+Osaka University,Japan,82,,A+
+Tohoku University,Japan,113,,A+
+Nagoya University,Japan,115,,A+
+Kyushu University,Japan,164,,A+
+Hokkaido University,Japan,196,,A+
+Waseda University,Japan,199,,A+
+Keio University,Japan,201,,A+
+Tokyo Medical and Dental University,Japan,179,,A+
+Hiroshima University,Japan,355,,A
+Kobe University,Japan,431,,B+
+Okayama University,Japan,501,,B
+Kumamoto University,Japan,551,,B
+Kanazawa University,Japan,601,,B
+Niigata University,Japan,701,,B
+Chiba University,Japan,701,,B
+Yokohama National University,Japan,651,,B
+Tsukuba University,Japan,355,,A
+Tokyo University of Agriculture and Technology,Japan,701,,B
+Sophia University,Japan,701,,B
+Ritsumeikan University,Japan,801,,B
+Doshisha University,Japan,801,,B
+Kansai University,Japan,1001,,C
+Kwansei Gakuin University,Japan,1001,,C
+Meiji University,Japan,1001,,C
+Aoyama Gakuin University,Japan,1201,,C
+Rikkyo University,Japan,1201,,C
+Chuo University,Japan,1201,,C
+Hosei University,Japan,1201,,C
+University of Cambridge,UK,2,,S+
+University of Oxford,UK,3,,S+
+Imperial College London,UK,6,,S+
+University College London,UK,9,,S+
+King's College London,UK,40,,S+
+London School of Economics,UK,45,,S+
+University of Edinburgh,UK,27,,S+
+University of Manchester,UK,34,,S+
+University of Warwick,UK,67,,S
+University of Bristol,UK,55,,S
+University of Glasgow,UK,76,,S
+University of Birmingham,UK,84,,A+
+University of Sheffield,UK,104,,A+
+University of Southampton,UK,81,,A+
+University of Leeds,UK,86,,A+
+University of Nottingham,UK,100,,A+
+University of York,UK,167,,A+
+Lancaster University,UK,146,,A+
+University of Bath,UK,148,,A+
+Loughborough University,UK,212,,A+
+University of Surrey,UK,347,,A
+University of Exeter,UK,153,,A+
+Cardiff University,UK,154,,A+
+Queen Mary University of London,UK,145,,A+
+University of Liverpool,UK,190,,A+
+University of Aberdeen,UK,220,,A+
+University of Dundee,UK,354,,A
+Heriot-Watt University,UK,281,,A
+University of Strathclyde,UK,325,,A
+Newcastle University,UK,110,,A+
+University of East Anglia,UK,295,,A
+University of Leicester,UK,279,,A
+Queen's University Belfast,UK,202,,A+
+University of Reading,UK,229,,A
+University of Sussex,UK,240,,A
+Swansea University,UK,425,,B+
+University of Stirling,UK,431,,B+
+Brunel University London,UK,343,,A
+City University of London,UK,355,,A
+Goldsmiths University of London,UK,511,,B
+Kingston University,UK,601,,B
+Middlesex University,UK,801,,B
+University of Greenwich,UK,1001,,C
+University of Westminster,UK,1001,,C
+London Metropolitan University,UK,1201,,C
+University of East London,UK,1201,,C
+University of Bedfordshire,UK,1201,,C
+Anglia Ruskin University,UK,1201,,C
+University of Hertfordshire,UK,801,,B
+De Montfort University,UK,1001,,C
+Coventry University,UK,701,,B
+Birmingham City University,UK,1001,,C
+University of Central Lancashire,UK,1001,,C
+Manchester Metropolitan University,UK,801,,B
+Liverpool John Moores University,UK,701,,B
+University of Salford,UK,1001,,C
+University of Huddersfield,UK,1001,,C
+Leeds Beckett University,UK,1201,,C
+Sheffield Hallam University,UK,1001,,C
+Nottingham Trent University,UK,701,,B
+University of Derby,UK,1201,,C
+Staffordshire University,UK,1201,,C
+University of Wolverhampton,UK,1201,,C
+University of the West of England,UK,701,,B
+Bath Spa University,UK,1201,,C
+Bournemouth University,UK,1001,,C
+University of Portsmouth,UK,701,,B
+Southampton Solent University,UK,1201,,C
+University of Brighton,UK,1001,,C
+University of Kent,UK,380,,A
+Canterbury Christ Church University,UK,1201,,C
+University of Essex,UK,465,,B+
+University of Oxford Brookes,UK,1001,,C
+ETH Zurich,Switzerland,7,,S+
+EPFL,Switzerland,26,,S+
+University of Zurich,Switzerland,92,,A+
+University of Geneva,Switzerland,125,,A+
+University of Basel,Switzerland,138,,A+
+University of Bern,Switzerland,155,,A+
+University of Lausanne,Switzerland,176,,A+
+University of St. Gallen,Switzerland,431,,B+
+Universita della Svizzera italiana,Switzerland,273,,A
+Sorbonne University,France,21,,S+
+École Normale Supérieure,France,45,,S+
+École Polytechnique,France,61,,S
+Université PSL,France,26,,S+
+Université Paris-Saclay,France,69,,S
+Sciences Po,France,259,,A
+Université de Lyon,France,201,,A+
+Université Grenoble Alpes,France,314,,A
+Université de Montpellier,France,327,,A
+Université de Bordeaux,France,338,,A
+Université de Lille,France,751,,B
+Université de Strasbourg,France,421,,B+
+Université de Toulouse,France,811,,B
+Université de Rennes,France,651,,B
+Université de Nantes,France,751,,B
+Université de Nice,France,801,,B
+Université de Marseille,France,701,,B
+INSA Lyon,France,511,,B
+INSA Toulouse,France,651,,B
+Centrale Paris,France,138,,A+
+Centrale Lyon,France,180,,A+
+Centrale Lille,France,511,,B
+CentraleSupélec,France,138,,A+
+École des Mines de Paris,France,81,,A+
+École des Ponts ParisTech,France,174,,A+
+École Nationale Supérieure,France,511,,B
+Technical University of Munich,Germany,37,,S+
+LMU Munich,Germany,54,,S
+Heidelberg University,Germany,87,,A+
+Humboldt University of Berlin,Germany,120,,A+
+Free University of Berlin,Germany,98,,A+
+RWTH Aachen University,Germany,106,,A+
+Technical University of Berlin,Germany,154,,A+
+University of Freiburg,Germany,189,,A+
+University of Göttingen,Germany,198,,A+
+University of Hamburg,Germany,205,,A+
+University of Bonn,Germany,200,,A+
+University of Cologne,Germany,268,,A
+University of Frankfurt,Germany,302,,A
+University of Stuttgart,Germany,314,,A
+University of Mannheim,Germany,511,,B
+University of Würzburg,Germany,401,,B+
+University of Münster,Germany,401,,B+
+University of Kiel,Germany,511,,B
+University of Bremen,Germany,651,,B
+University of Hannover,Germany,601,,B
+University of Dortmund,Germany,651,,B
+University of Duisburg-Essen,Germany,701,,B
+University of Bochum,Germany,331,,A
+KIT Karlsruhe,Germany,119,,A+
+TU Dresden,Germany,194,,A+
+University of Leipzig,Germany,511,,B
+University of Jena,Germany,651,,B
+University of Rostock,Germany,1001,,C
+University of Greifswald,Germany,1001,,C
+University of Magdeburg,Germany,1001,,C
+University of Halle,Germany,1001,,C
+University of Potsdam,Germany,801,,B
+Brandenburg University of Technology,Germany,1201,,C
+University of Melbourne,Australia,14,,S+
+Australian National University,Australia,30,,S+
+University of Sydney,Australia,18,,S+
+University of New South Wales,Australia,19,,S+
+University of Queensland,Australia,43,,S+
+Monash University,Australia,42,,S+
+University of Western Australia,Australia,72,,S
+University of Adelaide,Australia,89,,A+
+University of Technology Sydney,Australia,90,,A+
+Macquarie University,Australia,130,,A+
+Queensland University of Technology,Australia,189,,A+
+RMIT University,Australia,140,,A+
+University of Wollongong,Australia,162,,A+
+Curtin University,Australia,193,,A+
+Deakin University,Australia,266,,A
+Griffith University,Australia,300,,A
+University of Newcastle Australia,Australia,197,,A+
+University of South Australia,Australia,326,,A
+La Trobe University,Australia,421,,B+
+Flinders University,Australia,425,,B+
+University of Tasmania,Australia,307,,A
+Murdoch University,Australia,431,,B+
+Edith Cowan University,Australia,601,,B
+Western Sydney University,Australia,641,,B
+Victoria University Australia,Australia,701,,B
+Charles Darwin University,Australia,1001,,C
+University of Southern Queensland,Australia,1201,,C
+University of New England Australia,Australia,1201,,C
+Central Queensland University,Australia,1201,,C
+University of Toronto,Canada,21,,S+
+McGill University,Canada,30,,S+
+University of British Columbia,Canada,34,,S+
+University of Alberta,Canada,111,,A+
+McMaster University,Canada,189,,A+
+University of Montreal,Canada,141,,A+
+University of Waterloo,Canada,112,,A+
+Western University,Canada,114,,A+
+Queen's University,Canada,209,,A+
+University of Calgary,Canada,182,,A+
+Simon Fraser University,Canada,318,,A
+University of Ottawa,Canada,203,,A+
+Dalhousie University,Canada,298,,A
+University of Victoria,Canada,359,,A
+York University,Canada,456,,B+
+Carleton University,Canada,601,,B
+Concordia University,Canada,521,,B
+University of Saskatchewan,Canada,317,,A
+University of Manitoba,Canada,601,,B
+Memorial University of Newfoundland,Canada,701,,B
+University of New Brunswick,Canada,1001,,C
+University of Prince Edward Island,Canada,1201,,C
+Acadia University,Canada,1201,,C
+Mount Allison University,Canada,1201,,C
+St. Francis Xavier University,Canada,1201,,C
+Cape Breton University,Canada,1201,,C
+Université Laval,Canada,420,,B+
+Université de Sherbrooke,Canada,651,,B
+UQAM,Canada,1001,,C
+Université du Québec,Canada,1201,,C
+Polytechnique Montréal,Canada,511,,B
+Ryerson University,Canada,801,,B
+Brock University,Canada,1001,,C
+Lakehead University,Canada,1201,,C
+Laurentian University,Canada,1201,,C
+Nipissing University,Canada,1201,,C
+University of Windsor,Canada,651,,B
+Wilfrid Laurier University,Canada,1001,,C
+University of Guelph,Canada,481,,B
+Trent University,Canada,1201,,C
+OCAD University,Canada,1201,,C
+Brazilian Federal Universities,Brazil,9999,,A
+University of São Paulo,Brazil,85,,A+
+University of Campinas,Brazil,233,,A
+Federal University of Rio de Janeiro,Brazil,391,,A
+Federal University of Minas Gerais,Brazil,511,,B
+Federal University of Rio Grande do Sul,Brazil,601,,B
+Federal University of Santa Catarina,Brazil,651,,B
+Federal University of Paraná,Brazil,701,,B
+State University of São Paulo,Brazil,531,,B
+Pontifical Catholic University of Rio de Janeiro,Brazil,801,,B
+University of Brasília,Brazil,651,,B
+Federal University of Pernambuco,Brazil,751,,B
+Federal University of Bahia,Brazil,801,,B
+Federal University of Ceará,Brazil,1001,,C
+Federal University of Goiás,Brazil,1001,,C
+Universidad Nacional Autónoma de México,Mexico,103,,A+
+Tecnológico de Monterrey,Mexico,170,,A+
+Instituto Politécnico Nacional,Mexico,1001,,C
+Universidad de Guadalajara,Mexico,1201,,C
+Universidad Autónoma Metropolitana,Mexico,1201,,C
+Universidad de los Andes Colombia,Colombia,227,,A
+Universidad Nacional de Colombia,Colombia,651,,B
+Pontificia Universidad Javeriana,Colombia,1001,,C
+Universidad del Rosario,Colombia,1201,,C
+Universidad Externado de Colombia,Colombia,1201,,C
+Universidad de Chile,Chile,180,,A+
+Pontificia Universidad Católica de Chile,Chile,121,,A+
+Universidad de Concepción,Chile,1001,,C
+Universidad de Santiago de Chile,Chile,1201,,C
+Universidad Católica del Norte,Chile,1201,,C
+Universidad de Buenos Aires,Argentina,67,,S
+Universidad Austral,Argentina,1201,,C
+Universidad Torcuato Di Tella,Argentina,1201,,C
+Universidad de San Andrés,Argentina,1201,,C
+Universidad Nacional de La Plata,Argentina,1001,,C
+University of Cape Town,South Africa,171,,A+
+University of the Witwatersrand,South Africa,428,,B+
+Stellenbosch University,South Africa,296,,A
+University of KwaZulu-Natal,South Africa,1001,,C
+University of Pretoria,South Africa,651,,B
+Rhodes University,South Africa,1201,,C
+University of the Western Cape,South Africa,1201,,C
+North-West University,South Africa,1201,,C
+University of the Free State,South Africa,1201,,C
+Nelson Mandela University,South Africa,1201,,C
+Cairo University,Egypt,561,,B
+American University in Cairo,Egypt,1001,,C
+Ain Shams University,Egypt,1201,,C
+Alexandria University,Egypt,1201,,C
+Assiut University,Egypt,1201,,C
+Mansoura University,Egypt,1201,,C
+Zagazig University,Egypt,1201,,C
+Helwan University,Egypt,1201,,C
+Suez Canal University,Egypt,1201,,C
+Tanta University,Egypt,1201,,C
+King Abdulaziz University,Saudi Arabia,106,,A+
+King Fahd University,Saudi Arabia,186,,A+
+King Saud University,Saudi Arabia,137,,A+
+King Abdullah University,Saudi Arabia,201,,A+
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,1001,,C
+Prince Mohammad Bin Fahd University,Saudi Arabia,1201,,C
+Alfaisal University,Saudi Arabia,1201,,C
+Effat University,Saudi Arabia,1201,,C
+Princess Nourah bint Abdulrahman University,Saudi Arabia,1201,,C
+Qassim University,Saudi Arabia,1201,,C
+Tel Aviv University,Israel,198,,A+
+Technion Israel Institute of Technology,Israel,254,,A
+Weizmann Institute of Science,Israel,194,,A+
+Ben-Gurion University,Israel,352,,A
+Bar-Ilan University,Israel,701,,B
+University of Haifa,Israel,1001,,C
+Open University of Israel,Israel,1201,,C
+Ariel University,Israel,1201,,C
+Academic College of Tel Aviv-Yaffo,Israel,1201,,C
+Sapir Academic College,Israel,1201,,C
+Koç University,Turkey,511,,B
+Boğaziçi University,Turkey,536,,B
+Middle East Technical University,Turkey,350,,A
+Istanbul Technical University,Turkey,651,,B
+Bilkent University,Turkey,501,,B
+Sabancı University,Turkey,701,,B
+Istanbul University,Turkey,1001,,C
+Ankara University,Turkey,1201,,C
+Hacettepe University,Turkey,801,,B
+Gazi University,Turkey,1201,,C
+American University of Beirut,Lebanon,220,,A+
+Lebanese American University,Lebanon,1001,,C
+Notre Dame University Lebanon,Lebanon,1201,,C
+Université Saint-Joseph,Lebanon,1201,,C
+Lebanese University,Lebanon,1201,,C
+Holy Spirit University of Kaslik,Lebanon,1201,,C
+Beirut Arab University,Lebanon,1201,,C
+Islamic University of Lebanon,Lebanon,1201,,C
+Antonine University,Lebanon,1201,,C
+University of Balamand,Lebanon,1201,,C
+Seoul National University,South Korea,29,,S+
+KAIST,South Korea,56,,S
+POSTECH,South Korea,100,,A+
+Yonsei University,South Korea,73,,S
+Korea University,South Korea,79,,A+
+Sungkyunkwan University,South Korea,88,,A+
+Hanyang University,South Korea,146,,A+
+Kyung Hee University,South Korea,264,,A
+Ewha Womans University,South Korea,331,,A
+Sogang University,South Korea,511,,B
+Inha University,South Korea,651,,B
+Ajou University,South Korea,701,,B
+Kookmin University,South Korea,1001,,C
+Hongik University,South Korea,1001,,C
+Konkuk University,South Korea,1001,,C
+Dankook University,South Korea,1201,,C
+Kyonggi University,South Korea,1201,,C
+Soongsil University,South Korea,1201,,C
+Myongji University,South Korea,1201,,C
+National Taiwan University,Taiwan,68,,S
+National Tsing Hua University,Taiwan,180,,A+
+National Yang Ming Chiao Tung University,Taiwan,204,,A+
+National Taiwan University of Science and Technology,Taiwan,267,,A
+National Cheng Kung University,Taiwan,234,,A
+National Sun Yat-Sen University,Taiwan,411,,B+
+National Central University,Taiwan,511,,B
+National Chiao Tung University,Taiwan,267,,A
+Taipei Medical University,Taiwan,651,,B
+National Taiwan Normal University,Taiwan,331,,A
+Yuan Ze University,Taiwan,1001,,C
+Tamkang University,Taiwan,1001,,C
+Fu Jen Catholic University,Taiwan,1201,,C
+Chinese Culture University,Taiwan,1201,,C
+Feng Chia University,Taiwan,1201,,C
+Chung Yuan Christian University,Taiwan,1201,,C
+National Chung Hsing University,Taiwan,701,,B
+National Chung Cheng University,Taiwan,801,,B
+National Dong Hwa University,Taiwan,1001,,C
+National Kaohsiung University,Taiwan,1201,,C
+University of Hong Kong,Hong Kong,26,,S+
+Chinese University of Hong Kong,Hong Kong,38,,S+
+Hong Kong University of Science and Technology,Hong Kong,40,,S+
+City University of Hong Kong,Hong Kong,70,,S
+Hong Kong Polytechnic University,Hong Kong,65,,S
+Hong Kong Baptist University,Hong Kong,287,,A
+Lingnan University,Hong Kong,641,,B
+Education University of Hong Kong,Hong Kong,1001,,C
+Open University of Hong Kong,Hong Kong,1201,,C
+Hang Seng University of Hong Kong,Hong Kong,1201,,C
+Macau University of Science and Technology,Macau,701,,B
+University of Macau,Macau,322,,A
+Macau Polytechnic Institute,Macau,1201,,C
+City University of Macau,Macau,1201,,C
+Keng Yung University,Macau,1201,,C
+Institute for Tourism Studies Macau,Macau,1201,,C
+National University of Singapore,Singapore,11,,S+
+Nanyang Technological University,Singapore,13,,S+
+Singapore Management University,Singapore,429,,B+
+Singapore University of Technology and Design,Singapore,464,,B+
+Singapore Institute of Technology,Singapore,1001,,C
+Singapore University of Social Sciences,Singapore,1201,,C
+Nanyang Academy of Fine Arts,Singapore,1201,,C
+LASALLE College of the Arts,Singapore,1201,,C
+Raffles Music College,Singapore,1201,,C
+Kaplan Singapore,Singapore,1201,,C
+Universiti Malaya,Malaysia,70,,S
+Universiti Putra Malaysia,Malaysia,158,,A+
+Universiti Kebangsaan Malaysia,Malaysia,129,,A+
+Universiti Sains Malaysia,Malaysia,142,,A+
+Universiti Teknologi Malaysia,Malaysia,203,,A+
+Universiti Teknologi MARA,Malaysia,651,,B
+International Islamic University Malaysia,Malaysia,1001,,C
+Universiti Utara Malaysia,Malaysia,1201,,C
+Universiti Malaysia Pahang,Malaysia,1201,,C
+Universiti Tun Hussein Onn Malaysia,Malaysia,1201,,C
+Universiti Teknikal Malaysia Melaka,Malaysia,1201,,C
+Universiti Malaysia Perlis,Malaysia,1201,,C
+Universiti Sultan Zainal Abidin,Malaysia,1201,,C
+Universiti Malaysia Terengganu,Malaysia,1201,,C
+Universiti Pendidikan Sultan Idris,Malaysia,1201,,C
+Universiti Sains Islam Malaysia,Malaysia,1201,,C
+Multimedia University,Malaysia,801,,B
+Taylor's University,Malaysia,701,,B
+Monash University Malaysia,Malaysia,511,,B
+University of Nottingham Malaysia,Malaysia,511,,B
+Curtin University Malaysia,Malaysia,801,,B
+Chulalongkorn University,Thailand,224,,A
+Mahidol University,Thailand,382,,A
+King Mongkut's University of Technology Thonburi,Thailand,1001,,C
+Thammasat University,Thailand,601,,B
+Kasetsart University,Thailand,801,,B
+King Mongkut's Institute of Technology Ladkrabang,Thailand,1001,,C
+Chiang Mai University,Thailand,1001,,C
+Prince of Songkla University,Thailand,1201,,C
+Khon Kaen University,Thailand,1201,,C
+Suranaree University of Technology,Thailand,1201,,C
+Srinakharinwirot University,Thailand,1201,,C
+Ramkhamhaeng University,Thailand,1201,,C
+Rajamangala University of Technology,Thailand,1201,,C
+Maejo University,Thailand,1201,,C
+Walailak University,Thailand,1201,,C
+University of Indonesia,Indonesia,240,,A
+Bandung Institute of Technology,Indonesia,235,,A
+Gadjah Mada University,Indonesia,254,,A
+Airlangga University,Indonesia,415,,B+
+Institut Teknologi Sepuluh Nopember,Indonesia,701,,B
+Universitas Padjadjaran,Indonesia,1001,,C
+Universitas Diponegoro,Indonesia,1001,,C
+Universitas Brawijaya,Indonesia,1201,,C
+Universitas Sebelas Maret,Indonesia,1201,,C
+Universitas Andalas,Indonesia,1201,,C
+Universitas Hasanuddin,Indonesia,1201,,C
+Universitas Sriwijaya,Indonesia,1201,,C
+Universitas Riau,Indonesia,1201,,C
+Universitas Lampung,Indonesia,1201,,C
+Universitas Jember,Indonesia,1201,,C
+University of the Philippines,Philippines,396,,A
+Ateneo de Manila University,Philippines,701,,B
+De La Salle University,Philippines,1001,,C
+University of Santo Tomas,Philippines,1001,,C
+Polytechnic University of the Philippines,Philippines,1201,,C
+Far Eastern University,Philippines,1201,,C
+University of San Carlos,Philippines,1201,,C
+Central Philippine University,Philippines,1201,,C
+Xavier University,Philippines,1201,,C
+Silliman University,Philippines,1201,,C
+Hanoi University of Science and Technology,Vietnam,801,,B
+Vietnam National University Hanoi,Vietnam,801,,B
+Vietnam National University Ho Chi Minh City,Vietnam,1001,,C
+Hue University,Vietnam,1201,,C
+Can Tho University,Vietnam,1201,,C
+Da Nang University,Vietnam,1201,,C
+Thai Nguyen University,Vietnam,1201,,C
+University of Economics Ho Chi Minh City,Vietnam,1201,,C
+Foreign Trade University,Vietnam,1201,,C
+National Economics University,Vietnam,1201,,C
+University of Dhaka,Bangladesh,801,,B
+Bangladesh University of Engineering and Technology,Bangladesh,1001,,C
+Chittagong University,Bangladesh,1201,,C
+Rajshahi University,Bangladesh,1201,,C
+Jahangirnagar University,Bangladesh,1201,,C
+Khulna University,Bangladesh,1201,,C
+Islamic University Bangladesh,Bangladesh,1201,,C
+Shahjalal University of Science and Technology,Bangladesh,1201,,C
+Bangabandhu Sheikh Mujib Medical University,Bangladesh,1201,,C
+North South University,Bangladesh,1001,,C
+American International University Bangladesh,Bangladesh,1201,,C
+BRAC University,Bangladesh,1001,,C
+Independent University Bangladesh,Bangladesh,1201,,C
+East West University,Bangladesh,1201,,C
+University of Asia Pacific,Bangladesh,1201,,C
+University of Colombo,Sri Lanka,1001,,C
+University of Peradeniya,Sri Lanka,1201,,C
+University of Moratuwa,Sri Lanka,1001,,C
+University of Kelaniya,Sri Lanka,1201,,C
+University of Sri Jayewardenepura,Sri Lanka,1201,,C
+University of Ruhuna,Sri Lanka,1201,,C
+Eastern University Sri Lanka,Sri Lanka,1201,,C
+South Eastern University of Sri Lanka,Sri Lanka,1201,,C
+Wayamba University of Sri Lanka,Sri Lanka,1201,,C
+Sabaragamuwa University of Sri Lanka,Sri Lanka,1201,,C
+Kathmandu University,Nepal,1201,,C
+Tribhuvan University,Nepal,1201,,C
+Pokhara University,Nepal,1201,,C
+Purbanchal University,Nepal,1201,,C
+Far-Western University,Nepal,1201,,C
+Mid-Western University,Nepal,1201,,C
+Agriculture and Forestry University,Nepal,1201,,C
+Nepal Sanskrit University,Nepal,1201,,C
+B.P. Koirala Institute of Health Sciences,Nepal,1201,,C
+National Academy of Medical Sciences,Nepal,1201,,C
+University of California Berkeley,USA,10,,S+
+University of California Los Angeles,USA,15,,S+
+University of California San Diego,USA,34,,S+
+University of Michigan Ann Arbor,USA,23,,S+
+Northwestern University,USA,20,,S+
+New York University,USA,39,,S+
+Carnegie Mellon University,USA,52,,S+
+University of Washington,USA,63,,S
+Georgia Institute of Technology,USA,88,,A+
+University of Texas Austin,USA,58,,S
+University of Illinois Urbana-Champaign,USA,64,,S
+Purdue University,USA,99,,A+
+University of Southern California,USA,116,,A+
+Pennsylvania State University,USA,132,,A+
+University of California Davis,USA,118,,A+
+University of California Irvine,USA,235,,A
+University of Florida,USA,133,,A+
+Ohio State University,USA,124,,A+
+University of Wisconsin Madison,USA,86,,A+
+University of Minnesota,USA,137,,A+
+University of Colorado Boulder,USA,246,,A
+Arizona State University,USA,179,,A
+University of Arizona,USA,262,,A
+University of California Santa Barbara,USA,151,,A+
+Virginia Polytechnic Institute,USA,326,,A
+University of Maryland,USA,169,,A+
+Rutgers University,USA,237,,A
+University of Pittsburgh,USA,164,,A+
+Boston University,USA,93,,A+
+Northeastern University,USA,375,,B+
+IIT Tirupati,India,,36,A+
+IIT Mandi,India,,37,A+
+IIT Jodhpur,India,,38,A+
+IIT Gandhinagar,India,,39,A+
+IIT Palakkad,India,,40,A+
+IIT Bhilai,India,,41,A+
+IIT Goa,India,,42,A+
+IIT Jammu,India,,43,A+
+IIT Dharwad,India,,44,A+
+NIT Rourkela,India,,15,A+
+NIT Calicut,India,,16,A+
+NIT Durgapur,India,,17,A+
+NIT Kurukshetra,India,,18,A+
+NIT Jaipur,India,,19,A+
+NIT Nagpur,India,,20,A+
+NIT Hamirpur,India,,21,A+
+NIT Jalandhar,India,,22,A+
+NIT Raipur,India,,23,A+
+NIT Allahabad,India,,24,A+
+NIT Bhopal,India,,25,A+
+NIT Jamshedpur,India,,26,A+
+NIT Patna,India,,27,A+
+NIT Silchar,India,,28,A+
+NIT Agartala,India,,29,A+
+NIT Arunachal Pradesh,India,,30,A+
+Indian Institute of Information Technology Allahabad,India,,31,A+
+Indian Institute of Information Technology Gwalior,India,,32,A+
+Indian Institute of Information Technology Jabalpur,India,,33,A+
+Indian Institute of Information Technology Vadodara,India,,34,A+
+Indian Institute of Information Technology Lucknow,India,,35,A+
+Birla Institute of Technology and Science Goa,India,,36,A+
+Birla Institute of Technology and Science Hyderabad,India,,37,A+
+Vellore Institute of Technology,India,,38,A+
+Manipal Institute of Technology,India,,39,A+
+SRM Institute of Science and Technology,India,,40,A+
+Amity University Noida,India,,41,B+
+Lovely Professional University Punjab,India,,42,B+
+Thapar Institute of Engineering and Technology,India,,43,B+
+Chandigarh University,India,,44,B+
+Chitkara University,India,,45,B+
+University of Petroleum and Energy Studies,India,,46,B+
+Kalinga Institute of Industrial Technology,India,,47,B+
+Shiv Nadar University,India,,48,B+
+Ashoka University,India,,49,B+
+O.P. Jindal Global University,India,,50,B+
+Christ University Bangalore,India,,51,B+
+Symbiosis International University Pune,India,,52,B+
+NMIMS Mumbai,India,,53,B+
+Flame University,India,,54,B+
+Bennett University,India,,55,B+
+Plaksha University,India,,56,B+
+Krea University,India,,57,B+
+Mahindra University,India,,58,B+
+University of Cambridge,UK,2,,S+
+University of Oxford,UK,4,,S+
+Imperial College London,UK,9,,S+
+University College London,UK,8,,S+
+King's College London,UK,35,,S+
+London School of Economics,UK,45,,S+
+University of Edinburgh,UK,15,,S+
+University of Manchester,UK,32,,S+
+University of Warwick,UK,64,,S
+University of Glasgow,UK,76,,S
+University of Birmingham,UK,84,,A+
+University of Sheffield,UK,104,,A+
+University of Nottingham,UK,100,,A+
+University of Southampton,UK,81,,A+
+University of Leeds,UK,75,,S
+University of Bristol,UK,54,,S
+Durham University,UK,78,,S
+University of St Andrews,UK,95,,A+
+University of York,UK,167,,A+
+Lancaster University,UK,122,,A+
+University of Bath,UK,148,,A+
+Loughborough University,UK,212,,A
+University of Surrey,UK,347,,B+
+University of Leicester,UK,279,,A
+University of Liverpool,UK,190,,A
+Cardiff University,UK,154,,A+
+Queen Mary University of London,UK,145,,A+
+University of Exeter,UK,153,,A+
+University of Reading,UK,169,,A+
+Brunel University London,UK,343,,B+
+City University of London,UK,355,,B+
+Coventry University,UK,571,,B
+University of Greenwich,UK,701,,B
+Middlesex University,UK,801,,B
+University of Westminster,UK,701,,B
+University of East London,UK,801,,B
+London Metropolitan University,UK,1001,,C
+Technical University of Munich,Germany,37,,S+
+Ludwig Maximilian University Munich,Germany,54,,S+
+Heidelberg University,Germany,64,,S
+Humboldt University Berlin,Germany,120,,A+
+University of Freiburg,Germany,192,,A+
+University of Göttingen,Germany,134,,A+
+University of Tübingen,Germany,213,,A
+Technical University of Berlin,Germany,158,,A+
+University of Hamburg,Germany,228,,A
+University of Cologne,Germany,268,,A
+University of Bonn,Germany,200,,A+
+University of Frankfurt,Germany,415,,B+
+University of Stuttgart,Germany,347,,B+
+University of Mannheim,Germany,511,,B+
+University of Düsseldorf,Germany,427,,B+
+University of Erlangen-Nuremberg,Germany,360,,B+
+University of Würzburg,Germany,489,,B+
+University of Münster,Germany,340,,B+
+University of Kiel,Germany,520,,B+
+University of Mainz,Germany,501,,B+
+University of Bremen,Germany,541,,B+
+Sorbonne University,France,44,,S+
+École Polytechnique,France,61,,S
+École Normale Supérieure Paris,France,23,,S+
+Sciences Po Paris,France,259,,A
+École Centrale Paris,France,137,,A+
+INSEAD,France,95,,A+
+HEC Paris,France,26,,S+
+École des Mines ParisTech,France,121,,A+
+Université PSL,France,26,,S+
+École Polytechnique Fédérale de Lausanne,Switzerland,11,,S+
+ETH Zurich,Switzerland,7,,S+
+University of Zurich,Switzerland,92,,A+
+University of Geneva,Switzerland,125,,A+
+University of Basel,Switzerland,138,,A+
+University of Bern,Switzerland,140,,A+
+University of Lausanne,Switzerland,176,,A+
+University of St Gallen,Switzerland,501,,B+
+National University of Singapore,Singapore,11,,S+
+Nanyang Technological University,Singapore,15,,S+
+Singapore Management University,Singapore,429,,B+
+Singapore University of Technology and Design,Singapore,429,,B+
+Singapore Institute of Technology,Singapore,601,,B
+Peking University,China,12,,S+
+Tsinghua University,China,14,,S+
+Fudan University,China,40,,S+
+Shanghai Jiao Tong University,China,46,,S+
+Zhejiang University,China,47,,S+
+University of Science and Technology of China,China,98,,A+
+Nanjing University,China,133,,A+
+Beijing Institute of Technology,China,343,,B+
+Harbin Institute of Technology,China,235,,A
+Xi'an Jiaotong University,China,303,,A
+Sun Yat-sen University,China,267,,A
+Beihang University,China,383,,B+
+Beijing Normal University,China,272,,A
+Tongji University,China,216,,A
+Wuhan University,China,194,,A+
+Huazhong University of Science and Technology,China,484,,B+
+Central South University,China,474,,B+
+Sichuan University,China,416,,B+
+Tianjin University,China,455,,B+
+Dalian University of Technology,China,429,,B+
+University of Tokyo,Japan,23,,S+
+Kyoto University,Japan,33,,S+
+Tokyo Institute of Technology,Japan,56,,S
+Osaka University,Japan,80,,S
+Tohoku University,Japan,79,,S
+Nagoya University,Japan,112,,A+
+Kyushu University,Japan,164,,A+
+Hokkaido University,Japan,156,,A+
+University of Tsukuba,Japan,355,,B+
+Kobe University,Japan,392,,B+
+Waseda University,Japan,199,,A+
+Keio University,Japan,201,,A+
+Hitotsubashi University,Japan,428,,B+
+Tokyo University of Science,Japan,431,,B+
+Chiba University,Japan,524,,B+
+Yokohama National University,Japan,581,,B
+Seoul National University,South Korea,29,,S+
+KAIST,South Korea,41,,S+
+POSTECH,South Korea,100,,A+
+Yonsei University,South Korea,76,,S
+Korea University,South Korea,79,,S
+Hanyang University,South Korea,164,,A+
+Kyung Hee University,South Korea,332,,B+
+Pohang University of Science and Technology,South Korea,100,,A+
+Ewha Womans University,South Korea,631,,B
+Sogang University,South Korea,631,,B
+Sungkyunkwan University,South Korea,145,,A+
+University of Sydney,Australia,19,,S+
+University of Melbourne,Australia,14,,S+
+Australian National University,Australia,27,,S+
+University of Queensland,Australia,43,,S+
+University of New South Wales,Australia,45,,S+
+Monash University,Australia,57,,S
+University of Western Australia,Australia,72,,S
+University of Adelaide,Australia,89,,A+
+University of Technology Sydney,Australia,90,,A+
+Queensland University of Technology,Australia,189,,A+
+Curtin University,Australia,193,,A+
+RMIT University,Australia,140,,A+
+Deakin University,Australia,283,,A
+Griffith University,Australia,300,,A
+La Trobe University,Australia,316,,A
+Macquarie University,Australia,130,,A+
+University of South Australia,Australia,326,,A
+University of Wollongong,Australia,162,,A+
+Victoria University,Australia,701,,B
+University of Toronto,Canada,21,,S+
+University of British Columbia,Canada,34,,S+
+McGill University,Canada,31,,S+
+McMaster University,Canada,152,,A+
+University of Waterloo,Canada,112,,A+
+University of Alberta,Canada,111,,A+
+Queen's University,Canada,209,,A+
+Western University,Canada,172,,A+
+University of Ottawa,Canada,203,,A+
+University of Montreal,Canada,141,,A+
+University of Calgary,Canada,182,,A+
+Simon Fraser University,Canada,298,,A
+Carleton University,Canada,601,,B
+Concordia University,Canada,521,,B+
+York University,Canada,456,,B+
+Ryerson University,Canada,801,,B
+University of Victoria,Canada,359,,B+
+Dalhousie University,Canada,298,,A
+University of Saskatchewan,Canada,342,,B+
+University of Manitoba,Canada,651,,B
+University of São Paulo,Brazil,115,,A+
+Universidade Estadual de Campinas,Brazil,233,,A
+Universidade Federal do Rio de Janeiro,Brazil,381,,B+
+Universidade de São Paulo,Brazil,115,,A+
+Pontifical Catholic University of Rio de Janeiro,Brazil,801,,B+
+Universidade Federal de Minas Gerais,Brazil,411,,B+
+Universidade Federal do Rio Grande do Sul,Brazil,474,,B+
+Universidade de Brasília,Brazil,801,,B+
+Universidade Federal de Santa Catarina,Brazil,551,,B+
+Universidade Federal de São Paulo,Brazil,651,,B
+University of Cape Town,South Africa,237,,A
+University of the Witwatersrand,South Africa,428,,B+
+Stellenbosch University,South Africa,296,,A
+University of KwaZulu-Natal,South Africa,338,,B+
+University of Pretoria,South Africa,561,,B+
+University of the Western Cape,South Africa,1001,,C
+Rhodes University,South Africa,801,,B
+North-West University,South Africa,801,,B
+University of the Free State,South Africa,801,,B
+University of Johannesburg,South Africa,551,,B+
+Cairo University,Egypt,561,,B
+American University in Cairo,Egypt,415,,B+
+Ain Shams University,Egypt,801,,B
+Alexandria University,Egypt,801,,B
+Assiut University,Egypt,801,,B
+Mansoura University,Egypt,1001,,C
+Zagazig University,Egypt,1001,,C
+Helwan University,Egypt,1001,,C
+Suez Canal University,Egypt,1001,,C
+Tanta University,Egypt,1001,,C
+King Saud University,Saudi Arabia,105,,A+
+King Abdulaziz University,Saudi Arabia,143,,A+
+King Fahd University of Petroleum and Minerals,Saudi Arabia,193,,A+
+King Khalid University,Saudi Arabia,801,,B
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,801,,B
+Princess Nourah bint Abdulrahman University,Saudi Arabia,1001,,C
+Qassim University,Saudi Arabia,1001,,C
+Taibah University,Saudi Arabia,1001,,C
+Jazan University,Saudi Arabia,1001,,C
+Najran University,Saudi Arabia,1001,,C

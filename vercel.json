@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "builds": [
+    { 
+      "src": "backend/main.py", 
+      "use": "@vercel/python",
+      "config": { "maxLambdaSize": "50mb" }
+    }
+  ],
+  "routes": [
+    { "src": "/api/(.*)", "dest": "backend/main.py" }
+  ],
+  "env": {
+    "GROQ_API_KEY": "@groq-api-key",
+    "MONGODB_URI": "@mongodb-uri",
+    "DATABASE_NAME": "destiny_engine",
+    "AI_PROVIDER": "groq",
+    "MODEL_NAME": "llama-3.1-8b-instant",
+    "TEMPERATURE": "0.7",
+    "ENVIRONMENT": "production"
+  },
+  "functions": {
+    "backend/main.py": {
+      "maxDuration": 30
+    }
+  }
+}
